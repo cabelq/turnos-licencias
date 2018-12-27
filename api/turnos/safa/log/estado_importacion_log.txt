@@ -1,0 +1,1075 @@
+2016-11-07 12:17:41\Resultado de la comprobación: \48050 en tabla.  - 48050 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-07 12:17:55\Importador de faltas: \48050 Registros leidos. - 48050 Registros insertados.
+2016-11-08 03:30:01\Resultado de la comprobación: \48050 en tabla.  - 48050 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-08 03:30:15\Importador de faltas: \48050 Registros leidos. - 48050 Registros insertados.
+2016-11-09 03:30:02\Resultado de la comprobación: \48050 en tabla.  - 48050 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-09 03:30:16\Importador de faltas: \48050 Registros leidos. - 48050 Registros insertados.
+2016-11-10 03:30:01\Resultado de la comprobación: \48050 en tabla.  - 48054 en archivo. - -4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-10 03:30:15\Importador de faltas: \48054 Registros leidos. - 48054 Registros insertados.
+2016-11-11 03:30:01\Resultado de la comprobación: \48054 en tabla.  - 48058 en archivo. - -4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-11 03:30:15\Importador de faltas: \48058 Registros leidos. - 48058 Registros insertados.
+2016-11-12 03:30:01\Resultado de la comprobación: \48058 en tabla.  - 48060 en archivo. - -2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-12 03:30:15\Importador de faltas: \48060 Registros leidos. - 48060 Registros insertados.
+2016-11-13 03:30:01\Resultado de la comprobación: \48060 en tabla.  - 48087 en archivo. - -27 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-13 03:30:16\Importador de faltas: \48087 Registros leidos. - 48087 Registros insertados.
+2016-11-14 03:30:02\Resultado de la comprobación: \48087 en tabla.  - 48067 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-14 03:30:16\Importador de faltas: \48067 Registros leidos. - 48067 Registros insertados.
+2016-11-15 03:30:01\Resultado de la comprobación: \48067 en tabla.  - 48067 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-15 03:30:16\Importador de faltas: \48067 Registros leidos. - 48067 Registros insertados.
+2016-11-16 03:30:01\Resultado de la comprobación: \48067 en tabla.  - 48067 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-16 03:30:16\Importador de faltas: \48067 Registros leidos. - 48067 Registros insertados.
+2016-11-17 03:30:02\Resultado de la comprobación: \48067 en tabla.  - 48067 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-17 03:30:16\Importador de faltas: \48067 Registros leidos. - 48067 Registros insertados.
+2016-11-18 03:30:01\Resultado de la comprobación: \48067 en tabla.  - 48040 en archivo. - 27 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-18 03:30:16\Importador de faltas: \48040 Registros leidos. - 48040 Registros insertados.
+2016-11-19 03:30:01\Resultado de la comprobación: \48040 en tabla.  - 48053 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-19 03:30:15\Importador de faltas: \48053 Registros leidos. - 48053 Registros insertados.
+2016-11-20 03:30:01\Resultado de la comprobación: \48053 en tabla.  - 48073 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-20 03:30:15\Importador de faltas: \48073 Registros leidos. - 48073 Registros insertados.
+2016-11-21 03:30:01\Resultado de la comprobación: \48073 en tabla.  - 48044 en archivo. - 29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-21 03:30:15\Importador de faltas: \48044 Registros leidos. - 48044 Registros insertados.
+2016-11-22 03:30:01\Resultado de la comprobación: \48044 en tabla.  - 48044 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-22 03:30:15\Importador de faltas: \48044 Registros leidos. - 48044 Registros insertados.
+2016-11-23 03:30:01\Resultado de la comprobación: \48044 en tabla.  - 48044 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-23 03:30:15\Importador de faltas: \48044 Registros leidos. - 48044 Registros insertados.
+2016-11-24 03:30:01\Resultado de la comprobación: \48044 en tabla.  - 48033 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-24 03:30:15\Importador de faltas: \48033 Registros leidos. - 48033 Registros insertados.
+2016-11-25 03:30:01\Resultado de la comprobación: \48033 en tabla.  - 48031 en archivo. - 2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-25 03:30:23\Importador de faltas: \48031 Registros leidos. - 48031 Registros insertados.
+2016-11-26 03:30:01\Resultado de la comprobación: \48031 en tabla.  - 48048 en archivo. - -17 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-26 03:30:16\Importador de faltas: \48048 Registros leidos. - 48048 Registros insertados.
+2016-11-27 03:30:01\Resultado de la comprobación: \48048 en tabla.  - 48066 en archivo. - -18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-27 03:30:15\Importador de faltas: \48066 Registros leidos. - 48066 Registros insertados.
+2016-11-28 03:30:01\Resultado de la comprobación: \48066 en tabla.  - 48066 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-28 03:30:16\Importador de faltas: \48066 Registros leidos. - 48066 Registros insertados.
+2016-11-29 03:30:01\Resultado de la comprobación: \48066 en tabla.  - 48066 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-29 03:30:15\Importador de faltas: \48066 Registros leidos. - 48066 Registros insertados.
+2016-11-30 03:30:01\Resultado de la comprobación: \48066 en tabla.  - 48066 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-11-30 03:30:17\Importador de faltas: \48066 Registros leidos. - 48066 Registros insertados.
+2016-12-01 03:30:01\Resultado de la comprobación: \48066 en tabla.  - 48066 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-01 03:30:16\Importador de faltas: \48066 Registros leidos. - 48066 Registros insertados.
+2016-12-02 03:30:01\Resultado de la comprobación: \48066 en tabla.  - 48043 en archivo. - 23 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-02 03:30:16\Importador de faltas: \48043 Registros leidos. - 48043 Registros insertados.
+2016-12-03 03:30:01\Resultado de la comprobación: \48043 en tabla.  - 48010 en archivo. - 33 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-03 03:30:15\Importador de faltas: \48010 Registros leidos. - 48010 Registros insertados.
+2016-12-04 03:30:02\Resultado de la comprobación: \48010 en tabla.  - 48006 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-04 03:30:16\Importador de faltas: \48006 Registros leidos. - 48006 Registros insertados.
+2016-12-05 03:30:01\Resultado de la comprobación: \48006 en tabla.  - 48019 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-05 03:30:15\Importador de faltas: \48019 Registros leidos. - 48019 Registros insertados.
+2016-12-06 03:30:02\Resultado de la comprobación: \48019 en tabla.  - 48019 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-06 03:30:16\Importador de faltas: \48019 Registros leidos. - 48019 Registros insertados.
+2016-12-07 03:30:01\Resultado de la comprobación: \48019 en tabla.  - 48019 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-07 03:30:15\Importador de faltas: \48019 Registros leidos. - 48019 Registros insertados.
+2016-12-08 03:30:02\Resultado de la comprobación: \48019 en tabla.  - 47842 en archivo. - 177 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-08 03:30:16\Importador de faltas: \47842 Registros leidos. - 47842 Registros insertados.
+2016-12-09 03:30:01\Resultado de la comprobación: \47842 en tabla.  - 47851 en archivo. - -9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-09 03:30:16\Importador de faltas: \47851 Registros leidos. - 47851 Registros insertados.
+2016-12-10 03:30:02\Resultado de la comprobación: \47851 en tabla.  - 47840 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-10 03:30:15\Importador de faltas: \47840 Registros leidos. - 47840 Registros insertados.
+2016-12-11 03:30:01\Resultado de la comprobación: \47840 en tabla.  - 47840 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-11 03:30:15\Importador de faltas: \47840 Registros leidos. - 47840 Registros insertados.
+2016-12-12 03:30:01\Resultado de la comprobación: \47840 en tabla.  - 47840 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-12 03:30:16\Importador de faltas: \47840 Registros leidos. - 47840 Registros insertados.
+2016-12-13 03:30:02\Resultado de la comprobación: \47840 en tabla.  - 47840 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-13 03:30:16\Importador de faltas: \47840 Registros leidos. - 47840 Registros insertados.
+2016-12-14 03:30:02\Resultado de la comprobación: \47840 en tabla.  - 47840 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-14 03:30:17\Importador de faltas: \47840 Registros leidos. - 47840 Registros insertados.
+2016-12-15 03:30:02\Resultado de la comprobación: \47840 en tabla.  - 47834 en archivo. - 6 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-15 03:30:17\Importador de faltas: \47834 Registros leidos. - 47834 Registros insertados.
+2016-12-16 03:30:02\Resultado de la comprobación: \47834 en tabla.  - 47814 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-16 03:30:16\Importador de faltas: \47814 Registros leidos. - 47814 Registros insertados.
+2016-12-17 03:30:02\Resultado de la comprobación: \47814 en tabla.  - 47798 en archivo. - 16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-17 03:31:31\Importador de faltas: \47798 Registros leidos. - 47798 Registros insertados.
+2016-12-18 03:30:01\Resultado de la comprobación: \47798 en tabla.  - 47786 en archivo. - 12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-18 03:31:27\Importador de faltas: \47786 Registros leidos. - 47786 Registros insertados.
+2016-12-19 03:30:01\Resultado de la comprobación: \47786 en tabla.  - 47756 en archivo. - 30 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-19 03:31:30\Importador de faltas: \47756 Registros leidos. - 47756 Registros insertados.
+2016-12-20 03:30:01\Resultado de la comprobación: \47756 en tabla.  - 47756 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-20 03:31:36\Importador de faltas: \47756 Registros leidos. - 47756 Registros insertados.
+2016-12-21 03:30:01\Resultado de la comprobación: \47756 en tabla.  - 47756 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-21 03:31:31\Importador de faltas: \47756 Registros leidos. - 47756 Registros insertados.
+2016-12-22 03:30:01\Resultado de la comprobación: \47756 en tabla.  - 47723 en archivo. - 33 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-22 03:30:22\Importador de faltas: \47723 Registros leidos. - 47723 Registros insertados.
+2016-12-23 03:30:02\Resultado de la comprobación: \47723 en tabla.  - 47705 en archivo. - 18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-23 03:30:22\Importador de faltas: \47705 Registros leidos. - 47705 Registros insertados.
+2016-12-24 03:30:01\Resultado de la comprobación: \47705 en tabla.  - 47689 en archivo. - 16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-24 03:30:22\Importador de faltas: \47689 Registros leidos. - 47689 Registros insertados.
+2016-12-25 03:30:01\Resultado de la comprobación: \47689 en tabla.  - 47683 en archivo. - 6 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-25 03:30:22\Importador de faltas: \47683 Registros leidos. - 47683 Registros insertados.
+2016-12-26 03:30:01\Resultado de la comprobación: \47683 en tabla.  - 47661 en archivo. - 22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-26 03:30:22\Importador de faltas: \47661 Registros leidos. - 47661 Registros insertados.
+2016-12-27 03:30:01\Resultado de la comprobación: \47661 en tabla.  - 47661 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-27 03:30:20\Importador de faltas: \47661 Registros leidos. - 47661 Registros insertados.
+2016-12-28 03:30:01\Resultado de la comprobación: \47661 en tabla.  - 47661 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-28 03:30:21\Importador de faltas: \47661 Registros leidos. - 47661 Registros insertados.
+2016-12-29 03:30:01\Resultado de la comprobación: \47661 en tabla.  - 47607 en archivo. - 54 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-29 03:30:22\Importador de faltas: \47607 Registros leidos. - 47607 Registros insertados.
+2016-12-30 03:30:01\Resultado de la comprobación: \47607 en tabla.  - 47575 en archivo. - 32 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-30 03:30:22\Importador de faltas: \47575 Registros leidos. - 47575 Registros insertados.
+2016-12-31 03:30:02\Resultado de la comprobación: \47575 en tabla.  - 47574 en archivo. - 1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2016-12-31 03:30:21\Importador de faltas: \47574 Registros leidos. - 47574 Registros insertados.
+2017-01-01 03:30:01\Resultado de la comprobación: \47574 en tabla.  - 47583 en archivo. - -9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-01 03:30:22\Importador de faltas: \47583 Registros leidos. - 47583 Registros insertados.
+2017-01-02 03:30:01\Resultado de la comprobación: \47583 en tabla.  - 47576 en archivo. - 7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-02 03:30:22\Importador de faltas: \47576 Registros leidos. - 47576 Registros insertados.
+2017-01-03 03:30:01\Resultado de la comprobación: \47576 en tabla.  - 47576 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-03 03:30:22\Importador de faltas: \47576 Registros leidos. - 47576 Registros insertados.
+2017-01-04 03:30:01\Resultado de la comprobación: \47576 en tabla.  - 47576 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-04 03:30:21\Importador de faltas: \47576 Registros leidos. - 47576 Registros insertados.
+2017-01-05 03:30:01\Resultado de la comprobación: \47576 en tabla.  - 47576 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-05 03:30:12\Importador de faltas: \47576 Registros leidos. - 47576 Registros insertados.
+2017-01-06 03:30:01\Resultado de la comprobación: \47576 en tabla.  - 47377 en archivo. - 199 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-06 03:30:12\Importador de faltas: \47377 Registros leidos. - 47377 Registros insertados.
+2017-01-07 03:30:01\Resultado de la comprobación: \47377 en tabla.  - 47364 en archivo. - 13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-07 03:30:11\Importador de faltas: \47364 Registros leidos. - 47364 Registros insertados.
+2017-01-08 03:30:01\Resultado de la comprobación: \47364 en tabla.  - 47349 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-08 03:30:11\Importador de faltas: \47349 Registros leidos. - 47349 Registros insertados.
+2017-01-09 03:30:01\Resultado de la comprobación: \47349 en tabla.  - 47347 en archivo. - 2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-09 03:30:11\Importador de faltas: \47347 Registros leidos. - 47347 Registros insertados.
+2017-01-10 03:30:01\Resultado de la comprobación: \47347 en tabla.  - 47347 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-10 03:30:22\Importador de faltas: \47347 Registros leidos. - 47347 Registros insertados.
+2017-01-11 03:30:02\Resultado de la comprobación: \47347 en tabla.  - 47347 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-11 03:30:22\Importador de faltas: \47347 Registros leidos. - 47347 Registros insertados.
+2017-01-12 03:30:01\Resultado de la comprobación: \47347 en tabla.  - 47340 en archivo. - 7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-12 03:30:21\Importador de faltas: \47340 Registros leidos. - 47340 Registros insertados.
+2017-01-13 03:30:01\Resultado de la comprobación: \47340 en tabla.  - 47376 en archivo. - -36 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-13 03:30:21\Importador de faltas: \47376 Registros leidos. - 47376 Registros insertados.
+2017-01-14 03:30:02\Resultado de la comprobación: \47376 en tabla.  - 47357 en archivo. - 19 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-14 03:30:22\Importador de faltas: \47357 Registros leidos. - 47357 Registros insertados.
+2017-01-15 03:30:01\Resultado de la comprobación: \47357 en tabla.  - 47340 en archivo. - 17 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-15 03:30:21\Importador de faltas: \47340 Registros leidos. - 47340 Registros insertados.
+2017-01-16 03:30:01\Resultado de la comprobación: \47340 en tabla.  - 47330 en archivo. - 10 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-16 03:30:21\Importador de faltas: \47330 Registros leidos. - 47330 Registros insertados.
+2017-01-17 03:30:02\Resultado de la comprobación: \47330 en tabla.  - 47330 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-17 03:30:22\Importador de faltas: \47330 Registros leidos. - 47330 Registros insertados.
+2017-01-18 03:30:01\Resultado de la comprobación: \47330 en tabla.  - 47330 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-18 03:30:21\Importador de faltas: \47330 Registros leidos. - 47330 Registros insertados.
+2017-01-19 03:30:01\Resultado de la comprobación: \47330 en tabla.  - 47319 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-19 03:30:22\Importador de faltas: \47319 Registros leidos. - 47319 Registros insertados.
+2017-01-20 03:30:01\Resultado de la comprobación: \47319 en tabla.  - 47299 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-20 03:30:22\Importador de faltas: \47299 Registros leidos. - 47299 Registros insertados.
+2017-01-21 03:30:01\Resultado de la comprobación: \47299 en tabla.  - 47294 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-21 03:30:21\Importador de faltas: \47294 Registros leidos. - 47294 Registros insertados.
+2017-01-22 03:30:01\Resultado de la comprobación: \47294 en tabla.  - 47283 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-22 03:30:21\Importador de faltas: \47283 Registros leidos. - 47283 Registros insertados.
+2017-01-23 03:30:02\Resultado de la comprobación: \47283 en tabla.  - 47269 en archivo. - 14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-23 03:30:22\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-01-24 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47269 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-24 03:30:11\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-01-25 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47269 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-25 03:30:10\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-01-26 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47265 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-26 03:30:11\Importador de faltas: \47265 Registros leidos. - 47265 Registros insertados.
+2017-01-27 03:30:01\Resultado de la comprobación: \47265 en tabla.  - 47247 en archivo. - 18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-27 03:30:11\Importador de faltas: \47247 Registros leidos. - 47247 Registros insertados.
+2017-01-28 03:30:02\Resultado de la comprobación: \47247 en tabla.  - 47265 en archivo. - -18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-28 03:30:11\Importador de faltas: \47265 Registros leidos. - 47265 Registros insertados.
+2017-01-29 03:30:02\Resultado de la comprobación: \47265 en tabla.  - 47250 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-29 03:30:11\Importador de faltas: \47250 Registros leidos. - 47250 Registros insertados.
+2017-01-30 03:30:01\Resultado de la comprobación: \47250 en tabla.  - 47246 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-30 03:30:12\Importador de faltas: \47246 Registros leidos. - 47246 Registros insertados.
+2017-01-31 03:30:01\Resultado de la comprobación: \47246 en tabla.  - 47246 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-01-31 03:30:21\Importador de faltas: \47246 Registros leidos. - 47246 Registros insertados.
+2017-02-01 03:30:01\Resultado de la comprobación: \47246 en tabla.  - 47246 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-01 03:30:22\Importador de faltas: \47246 Registros leidos. - 47246 Registros insertados.
+2017-02-02 03:30:01\Resultado de la comprobación: \47246 en tabla.  - 47233 en archivo. - 13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-02 03:30:21\Importador de faltas: \47233 Registros leidos. - 47233 Registros insertados.
+2017-02-03 03:30:01\Resultado de la comprobación: \47233 en tabla.  - 47245 en archivo. - -12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-03 03:30:21\Importador de faltas: \47245 Registros leidos. - 47245 Registros insertados.
+2017-02-04 03:30:01\Resultado de la comprobación: \47245 en tabla.  - 47270 en archivo. - -25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-04 03:30:21\Importador de faltas: \47270 Registros leidos. - 47270 Registros insertados.
+2017-02-05 03:30:02\Resultado de la comprobación: \47270 en tabla.  - 47110 en archivo. - 160 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-05 03:30:22\Importador de faltas: \47110 Registros leidos. - 47110 Registros insertados.
+2017-02-06 03:30:01\Resultado de la comprobación: \47110 en tabla.  - 47093 en archivo. - 17 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-06 03:30:22\Importador de faltas: \47093 Registros leidos. - 47093 Registros insertados.
+2017-02-07 03:30:01\Resultado de la comprobación: \47093 en tabla.  - 47093 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-07 03:30:21\Importador de faltas: \47093 Registros leidos. - 47093 Registros insertados.
+2017-02-08 03:30:01\Resultado de la comprobación: \47093 en tabla.  - 47093 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-08 03:30:20\Importador de faltas: \47093 Registros leidos. - 47093 Registros insertados.
+2017-02-09 03:30:02\Resultado de la comprobación: \47093 en tabla.  - 47093 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-09 03:30:21\Importador de faltas: \47093 Registros leidos. - 47093 Registros insertados.
+2017-02-10 03:30:02\Resultado de la comprobación: \47093 en tabla.  - 47096 en archivo. - -3 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-10 03:30:13\Importador de faltas: \47096 Registros leidos. - 47096 Registros insertados.
+2017-02-11 03:30:01\Resultado de la comprobación: \47096 en tabla.  - 47086 en archivo. - 10 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-11 03:30:13\Importador de faltas: \47086 Registros leidos. - 47086 Registros insertados.
+2017-02-12 03:30:01\Resultado de la comprobación: \47086 en tabla.  - 47078 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-12 03:30:14\Importador de faltas: \47078 Registros leidos. - 47078 Registros insertados.
+2017-02-13 03:30:01\Resultado de la comprobación: \47078 en tabla.  - 47070 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-13 03:30:12\Importador de faltas: \47070 Registros leidos. - 47070 Registros insertados.
+2017-02-14 03:30:01\Resultado de la comprobación: \47070 en tabla.  - 47070 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-14 03:30:13\Importador de faltas: \47070 Registros leidos. - 47070 Registros insertados.
+2017-02-15 03:30:01\Resultado de la comprobación: \47070 en tabla.  - 47070 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-15 03:30:12\Importador de faltas: \47070 Registros leidos. - 47070 Registros insertados.
+2017-02-16 03:30:01\Resultado de la comprobación: \47070 en tabla.  - 47050 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-16 03:30:15\Importador de faltas: \47050 Registros leidos. - 47050 Registros insertados.
+2017-02-17 03:30:01\Resultado de la comprobación: \47050 en tabla.  - 47078 en archivo. - -28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-17 03:30:21\Importador de faltas: \47078 Registros leidos. - 47078 Registros insertados.
+2017-02-18 03:30:01\Resultado de la comprobación: \47078 en tabla.  - 47050 en archivo. - 28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-18 03:30:12\Importador de faltas: \47050 Registros leidos. - 47050 Registros insertados.
+2017-02-19 03:30:01\Resultado de la comprobación: \47050 en tabla.  - 47081 en archivo. - -31 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-19 03:30:21\Importador de faltas: \47081 Registros leidos. - 47081 Registros insertados.
+2017-02-20 03:30:02\Resultado de la comprobación: \47081 en tabla.  - 47079 en archivo. - 2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-20 03:30:22\Importador de faltas: \47079 Registros leidos. - 47079 Registros insertados.
+2017-02-21 03:30:01\Resultado de la comprobación: \47079 en tabla.  - 47078 en archivo. - 1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-21 03:30:21\Importador de faltas: \47078 Registros leidos. - 47078 Registros insertados.
+2017-02-22 03:30:01\Resultado de la comprobación: \47078 en tabla.  - 47078 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-22 03:30:21\Importador de faltas: \47078 Registros leidos. - 47078 Registros insertados.
+2017-02-23 03:30:01\Resultado de la comprobación: \47078 en tabla.  - 47079 en archivo. - -1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-23 03:30:21\Importador de faltas: \47079 Registros leidos. - 47079 Registros insertados.
+2017-02-24 03:30:01\Resultado de la comprobación: \47079 en tabla.  - 47112 en archivo. - -33 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-24 03:30:22\Importador de faltas: \47112 Registros leidos. - 47112 Registros insertados.
+2017-02-25 03:30:01\Resultado de la comprobación: \47112 en tabla.  - 47146 en archivo. - -34 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-25 03:30:12\Importador de faltas: \47146 Registros leidos. - 47146 Registros insertados.
+2017-02-26 03:30:01\Resultado de la comprobación: \47146 en tabla.  - 47148 en archivo. - -2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-26 03:30:14\Importador de faltas: \47148 Registros leidos. - 47148 Registros insertados.
+2017-02-27 03:30:01\Resultado de la comprobación: \47148 en tabla.  - 47001 en archivo. - 147 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-27 03:30:13\Importador de faltas: \47001 Registros leidos. - 47001 Registros insertados.
+2017-02-28 03:30:01\Resultado de la comprobación: \47001 en tabla.  - 47001 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-02-28 03:30:12\Importador de faltas: \47001 Registros leidos. - 47001 Registros insertados.
+2017-03-01 03:30:01\Resultado de la comprobación: \47001 en tabla.  - 47001 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-01 03:30:12\Importador de faltas: \47001 Registros leidos. - 47001 Registros insertados.
+2017-03-02 03:30:01\Resultado de la comprobación: \47001 en tabla.  - 47001 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-02 03:30:22\Importador de faltas: \47001 Registros leidos. - 47001 Registros insertados.
+2017-03-03 03:30:02\Resultado de la comprobación: \47001 en tabla.  - 47001 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-03 03:30:22\Importador de faltas: \47001 Registros leidos. - 47001 Registros insertados.
+2017-03-04 03:30:01\Resultado de la comprobación: \47001 en tabla.  - 46980 en archivo. - 21 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-04 03:30:14\Importador de faltas: \46980 Registros leidos. - 46980 Registros insertados.
+2017-03-05 03:30:02\Resultado de la comprobación: \46980 en tabla.  - 46971 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-05 03:30:13\Importador de faltas: \46971 Registros leidos. - 46971 Registros insertados.
+2017-03-06 03:30:01\Resultado de la comprobación: \46971 en tabla.  - 46996 en archivo. - -25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-06 03:30:11\Importador de faltas: \46996 Registros leidos. - 46996 Registros insertados.
+2017-03-07 03:30:02\Resultado de la comprobación: \46996 en tabla.  - 46996 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-07 03:30:12\Importador de faltas: \46996 Registros leidos. - 46996 Registros insertados.
+2017-03-08 03:30:01\Resultado de la comprobación: \46996 en tabla.  - 46996 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-08 03:30:13\Importador de faltas: \46996 Registros leidos. - 46996 Registros insertados.
+2017-03-09 03:30:01\Resultado de la comprobación: \46996 en tabla.  - 47017 en archivo. - -21 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-09 03:30:21\Importador de faltas: \47017 Registros leidos. - 47017 Registros insertados.
+2017-03-10 03:30:01\Resultado de la comprobación: \47017 en tabla.  - 46999 en archivo. - 18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-10 03:30:21\Importador de faltas: \46999 Registros leidos. - 46999 Registros insertados.
+2017-03-11 03:30:01\Resultado de la comprobación: \46999 en tabla.  - 47001 en archivo. - -2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-11 03:30:13\Importador de faltas: \47001 Registros leidos. - 47001 Registros insertados.
+2017-03-12 03:30:01\Resultado de la comprobación: \47001 en tabla.  - 47023 en archivo. - -22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-12 03:30:22\Importador de faltas: \47023 Registros leidos. - 47023 Registros insertados.
+2017-03-13 03:30:01\Resultado de la comprobación: \47023 en tabla.  - 47023 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-13 03:30:21\Importador de faltas: \47023 Registros leidos. - 47023 Registros insertados.
+2017-03-14 03:30:01\Resultado de la comprobación: \47023 en tabla.  - 47023 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-14 03:30:22\Importador de faltas: \47023 Registros leidos. - 47023 Registros insertados.
+2017-03-15 03:30:01\Resultado de la comprobación: \47023 en tabla.  - 47023 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-15 03:30:22\Importador de faltas: \47023 Registros leidos. - 47023 Registros insertados.
+2017-03-16 03:30:02\Resultado de la comprobación: \47023 en tabla.  - 47016 en archivo. - 7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-16 03:30:22\Importador de faltas: \47016 Registros leidos. - 47016 Registros insertados.
+2017-03-17 03:30:01\Resultado de la comprobación: \47016 en tabla.  - 47016 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-17 03:30:21\Importador de faltas: \47016 Registros leidos. - 47016 Registros insertados.
+2017-03-18 03:30:01\Resultado de la comprobación: \47016 en tabla.  - 47090 en archivo. - -74 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-18 03:30:21\Importador de faltas: \47090 Registros leidos. - 47090 Registros insertados.
+2017-03-19 03:30:01\Resultado de la comprobación: \47090 en tabla.  - 47090 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-19 03:30:21\Importador de faltas: \47090 Registros leidos. - 47090 Registros insertados.
+2017-03-20 03:30:01\Resultado de la comprobación: \47090 en tabla.  - 47090 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-20 03:30:21\Importador de faltas: \47090 Registros leidos. - 47090 Registros insertados.
+2017-03-21 03:30:01\Resultado de la comprobación: \47090 en tabla.  - 47090 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-21 03:30:21\Importador de faltas: \47090 Registros leidos. - 47090 Registros insertados.
+2017-03-22 03:30:01\Resultado de la comprobación: \47090 en tabla.  - 47224 en archivo. - -134 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-22 03:30:21\Importador de faltas: \47224 Registros leidos. - 47224 Registros insertados.
+2017-03-23 03:30:01\Resultado de la comprobación: \47224 en tabla.  - 47255 en archivo. - -31 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-23 03:30:21\Importador de faltas: \47255 Registros leidos. - 47255 Registros insertados.
+2017-03-24 03:30:01\Resultado de la comprobación: \47255 en tabla.  - 47256 en archivo. - -1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-24 03:30:21\Importador de faltas: \47256 Registros leidos. - 47256 Registros insertados.
+2017-03-25 03:30:01\Resultado de la comprobación: \47256 en tabla.  - 47264 en archivo. - -8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-25 03:30:21\Importador de faltas: \47264 Registros leidos. - 47264 Registros insertados.
+2017-03-26 03:30:01\Resultado de la comprobación: \47264 en tabla.  - 47269 en archivo. - -5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-26 03:30:22\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-03-27 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47269 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-27 03:30:21\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-03-28 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47269 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-28 03:30:21\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-03-29 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47269 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-29 03:30:19\Importador de faltas: \47269 Registros leidos. - 47269 Registros insertados.
+2017-03-30 03:30:01\Resultado de la comprobación: \47269 en tabla.  - 47280 en archivo. - -11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-30 03:30:21\Importador de faltas: \47280 Registros leidos. - 47280 Registros insertados.
+2017-03-31 03:30:01\Resultado de la comprobación: \47280 en tabla.  - 47323 en archivo. - -43 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-03-31 03:30:22\Importador de faltas: \47323 Registros leidos. - 47323 Registros insertados.
+2017-04-01 03:30:01\Resultado de la comprobación: \47323 en tabla.  - 47336 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-01 03:30:21\Importador de faltas: \47336 Registros leidos. - 47336 Registros insertados.
+2017-04-02 03:30:01\Resultado de la comprobación: \47336 en tabla.  - 47336 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-02 03:30:20\Importador de faltas: \47336 Registros leidos. - 47336 Registros insertados.
+2017-04-03 03:30:02\Resultado de la comprobación: \47336 en tabla.  - 47334 en archivo. - 2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-03 03:30:22\Importador de faltas: \47334 Registros leidos. - 47334 Registros insertados.
+2017-04-04 03:30:01\Resultado de la comprobación: \47334 en tabla.  - 47334 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-04 03:30:21\Importador de faltas: \47334 Registros leidos. - 47334 Registros insertados.
+2017-04-05 03:30:01\Resultado de la comprobación: \47334 en tabla.  - 47334 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-05 03:30:13\Importador de faltas: \47334 Registros leidos. - 47334 Registros insertados.
+2017-04-06 03:30:01\Resultado de la comprobación: \47334 en tabla.  - 47782 en archivo. - -448 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-06 03:30:13\Importador de faltas: \47782 Registros leidos. - 47782 Registros insertados.
+2017-04-07 03:30:01\Resultado de la comprobación: \47782 en tabla.  - 47818 en archivo. - -36 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-07 03:30:12\Importador de faltas: \47818 Registros leidos. - 47818 Registros insertados.
+2017-04-08 03:30:01\Resultado de la comprobación: \47818 en tabla.  - 48172 en archivo. - -354 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-08 03:30:12\Importador de faltas: \48172 Registros leidos. - 48172 Registros insertados.
+2017-04-09 03:30:02\Resultado de la comprobación: \48172 en tabla.  - 48242 en archivo. - -70 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-09 03:30:12\Importador de faltas: \48242 Registros leidos. - 48242 Registros insertados.
+2017-04-10 03:30:01\Resultado de la comprobación: \48242 en tabla.  - 48395 en archivo. - -153 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-10 03:30:12\Importador de faltas: \48395 Registros leidos. - 48395 Registros insertados.
+2017-04-11 03:30:01\Resultado de la comprobación: \48395 en tabla.  - 48395 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-11 03:30:14\Importador de faltas: \48395 Registros leidos. - 48395 Registros insertados.
+2017-04-12 03:30:02\Resultado de la comprobación: \48395 en tabla.  - 48395 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-12 03:30:11\Importador de faltas: \48395 Registros leidos. - 48395 Registros insertados.
+2017-04-13 03:30:02\Resultado de la comprobación: \48395 en tabla.  - 48412 en archivo. - -17 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-13 03:30:15\Importador de faltas: \48412 Registros leidos. - 48412 Registros insertados.
+2017-04-14 03:30:02\Resultado de la comprobación: \48412 en tabla.  - 48530 en archivo. - -118 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-14 03:30:14\Importador de faltas: \48530 Registros leidos. - 48530 Registros insertados.
+2017-04-15 03:30:01\Resultado de la comprobación: \48530 en tabla.  - 48550 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-15 03:30:11\Importador de faltas: \48550 Registros leidos. - 48550 Registros insertados.
+2017-04-16 03:30:01\Resultado de la comprobación: \48550 en tabla.  - 48550 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-16 03:30:14\Importador de faltas: \48550 Registros leidos. - 48550 Registros insertados.
+2017-04-17 03:30:02\Resultado de la comprobación: \48550 en tabla.  - 48550 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-17 03:30:15\Importador de faltas: \48550 Registros leidos. - 48550 Registros insertados.
+2017-04-18 03:30:01\Resultado de la comprobación: \48550 en tabla.  - 48550 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-18 03:30:13\Importador de faltas: \48550 Registros leidos. - 48550 Registros insertados.
+2017-04-19 03:30:01\Resultado de la comprobación: \48550 en tabla.  - 48550 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-19 03:30:12\Importador de faltas: \48550 Registros leidos. - 48550 Registros insertados.
+2017-04-20 03:30:01\Resultado de la comprobación: \48550 en tabla.  - 48621 en archivo. - -71 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-20 03:30:13\Importador de faltas: \48621 Registros leidos. - 48621 Registros insertados.
+2017-04-21 03:30:01\Resultado de la comprobación: \48621 en tabla.  - 48721 en archivo. - -100 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-21 03:30:12\Importador de faltas: \48721 Registros leidos. - 48721 Registros insertados.
+2017-04-22 03:30:01\Resultado de la comprobación: \48721 en tabla.  - 48796 en archivo. - -75 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-22 03:30:11\Importador de faltas: \48796 Registros leidos. - 48796 Registros insertados.
+2017-04-23 03:30:01\Resultado de la comprobación: \48796 en tabla.  - 48799 en archivo. - -3 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-23 03:30:13\Importador de faltas: \48799 Registros leidos. - 48799 Registros insertados.
+2017-04-24 03:30:01\Resultado de la comprobación: \48799 en tabla.  - 48800 en archivo. - -1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-24 03:30:13\Importador de faltas: \48800 Registros leidos. - 48800 Registros insertados.
+2017-04-25 03:30:02\Resultado de la comprobación: \48800 en tabla.  - 48800 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-25 03:30:14\Importador de faltas: \48800 Registros leidos. - 48800 Registros insertados.
+2017-04-26 03:30:01\Resultado de la comprobación: \48800 en tabla.  - 48800 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-26 03:30:13\Importador de faltas: \48800 Registros leidos. - 48800 Registros insertados.
+2017-04-27 03:30:01\Resultado de la comprobación: \48800 en tabla.  - 48746 en archivo. - 54 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-27 03:30:12\Importador de faltas: \48746 Registros leidos. - 48746 Registros insertados.
+2017-04-28 03:30:01\Resultado de la comprobación: \48746 en tabla.  - 48778 en archivo. - -32 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-28 03:30:13\Importador de faltas: \48778 Registros leidos. - 48778 Registros insertados.
+2017-04-29 03:30:01\Resultado de la comprobación: \48778 en tabla.  - 48806 en archivo. - -28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-29 03:30:13\Importador de faltas: \48806 Registros leidos. - 48806 Registros insertados.
+2017-04-30 03:30:01\Resultado de la comprobación: \48806 en tabla.  - 48846 en archivo. - -40 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-04-30 03:30:12\Importador de faltas: \48846 Registros leidos. - 48846 Registros insertados.
+2017-05-01 03:30:02\Resultado de la comprobación: \48846 en tabla.  - 48868 en archivo. - -22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-01 03:30:14\Importador de faltas: \48868 Registros leidos. - 48868 Registros insertados.
+2017-05-02 03:30:01\Resultado de la comprobación: \48868 en tabla.  - 48868 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-02 03:30:13\Importador de faltas: \48868 Registros leidos. - 48868 Registros insertados.
+2017-05-03 03:30:01\Resultado de la comprobación: \48868 en tabla.  - 48868 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-03 03:30:12\Importador de faltas: \48868 Registros leidos. - 48868 Registros insertados.
+2017-05-04 03:30:01\Resultado de la comprobación: \48868 en tabla.  - 48868 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-04 03:30:13\Importador de faltas: \48868 Registros leidos. - 48868 Registros insertados.
+2017-05-05 03:30:01\Resultado de la comprobación: \48868 en tabla.  - 48844 en archivo. - 24 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-05 03:30:14\Importador de faltas: \48844 Registros leidos. - 48844 Registros insertados.
+2017-05-06 03:30:01\Resultado de la comprobación: \48844 en tabla.  - 48836 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-06 03:30:12\Importador de faltas: \48836 Registros leidos. - 48836 Registros insertados.
+2017-05-07 03:30:02\Resultado de la comprobación: \48836 en tabla.  - 48856 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-07 03:30:14\Importador de faltas: \48856 Registros leidos. - 48856 Registros insertados.
+2017-05-08 03:30:01\Resultado de la comprobación: \48856 en tabla.  - 48845 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-08 03:30:12\Importador de faltas: \48845 Registros leidos. - 48845 Registros insertados.
+2017-05-09 03:30:01\Resultado de la comprobación: \48845 en tabla.  - 48845 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-09 03:30:12\Importador de faltas: \48845 Registros leidos. - 48845 Registros insertados.
+2017-05-10 03:30:01\Resultado de la comprobación: \48845 en tabla.  - 48845 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-10 03:30:12\Importador de faltas: \48845 Registros leidos. - 48845 Registros insertados.
+2017-05-11 03:30:01\Resultado de la comprobación: \48845 en tabla.  - 48845 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-11 03:30:13\Importador de faltas: \48845 Registros leidos. - 48845 Registros insertados.
+2017-05-12 03:30:01\Resultado de la comprobación: \48845 en tabla.  - 48847 en archivo. - -2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-12 03:30:13\Importador de faltas: \48847 Registros leidos. - 48847 Registros insertados.
+2017-05-13 03:30:01\Resultado de la comprobación: \48847 en tabla.  - 48835 en archivo. - 12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-13 03:30:12\Importador de faltas: \48835 Registros leidos. - 48835 Registros insertados.
+2017-05-14 03:30:01\Resultado de la comprobación: \48835 en tabla.  - 48804 en archivo. - 31 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-14 03:30:12\Importador de faltas: \48804 Registros leidos. - 48804 Registros insertados.
+2017-05-15 03:30:02\Resultado de la comprobación: \48804 en tabla.  - 48817 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-15 03:30:13\Importador de faltas: \48817 Registros leidos. - 48817 Registros insertados.
+2017-05-16 03:30:02\Resultado de la comprobación: \48817 en tabla.  - 48817 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-16 03:30:13\Importador de faltas: \48817 Registros leidos. - 48817 Registros insertados.
+2017-05-17 03:30:01\Resultado de la comprobación: \48817 en tabla.  - 48817 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-17 03:30:21\Importador de faltas: \48817 Registros leidos. - 48817 Registros insertados.
+2017-05-18 03:30:02\Resultado de la comprobación: \48817 en tabla.  - 48814 en archivo. - 3 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-18 03:30:14\Importador de faltas: \48814 Registros leidos. - 48814 Registros insertados.
+2017-05-19 03:30:01\Resultado de la comprobación: \48814 en tabla.  - 48834 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-19 03:30:12\Importador de faltas: \48834 Registros leidos. - 48834 Registros insertados.
+2017-05-20 03:30:01\Resultado de la comprobación: \48834 en tabla.  - 48829 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-20 03:30:12\Importador de faltas: \48829 Registros leidos. - 48829 Registros insertados.
+2017-05-21 03:30:01\Resultado de la comprobación: \48829 en tabla.  - 48845 en archivo. - -16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-21 03:30:13\Importador de faltas: \48845 Registros leidos. - 48845 Registros insertados.
+2017-05-22 03:30:02\Resultado de la comprobación: \48845 en tabla.  - 48867 en archivo. - -22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-22 03:30:12\Importador de faltas: \48867 Registros leidos. - 48867 Registros insertados.
+2017-05-23 03:30:01\Resultado de la comprobación: \48867 en tabla.  - 48867 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-23 03:30:13\Importador de faltas: \48867 Registros leidos. - 48867 Registros insertados.
+2017-05-24 03:30:01\Resultado de la comprobación: \48867 en tabla.  - 48867 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-24 03:30:12\Importador de faltas: \48867 Registros leidos. - 48867 Registros insertados.
+2017-05-25 03:30:01\Resultado de la comprobación: \48867 en tabla.  - 48682 en archivo. - 185 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-25 03:30:11\Importador de faltas: \48682 Registros leidos. - 48682 Registros insertados.
+2017-05-26 03:30:02\Resultado de la comprobación: \48682 en tabla.  - 48693 en archivo. - -11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-26 03:30:12\Importador de faltas: \48693 Registros leidos. - 48693 Registros insertados.
+2017-05-27 03:30:02\Resultado de la comprobación: \48693 en tabla.  - 48936 en archivo. - -243 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-27 03:30:12\Importador de faltas: \48936 Registros leidos. - 48936 Registros insertados.
+2017-05-28 03:30:01\Resultado de la comprobación: \48936 en tabla.  - 48936 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-28 03:30:12\Importador de faltas: \48936 Registros leidos. - 48936 Registros insertados.
+2017-05-29 03:30:01\Resultado de la comprobación: \48936 en tabla.  - 48935 en archivo. - 1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-29 03:30:12\Importador de faltas: \48935 Registros leidos. - 48935 Registros insertados.
+2017-05-30 03:30:01\Resultado de la comprobación: \48935 en tabla.  - 48935 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-30 03:30:12\Importador de faltas: \48935 Registros leidos. - 48935 Registros insertados.
+2017-05-31 03:30:01\Resultado de la comprobación: \48935 en tabla.  - 48935 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-05-31 03:30:12\Importador de faltas: \48935 Registros leidos. - 48935 Registros insertados.
+2017-06-01 03:30:01\Resultado de la comprobación: \48935 en tabla.  - 48991 en archivo. - -56 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-01 03:30:12\Importador de faltas: \48991 Registros leidos. - 48991 Registros insertados.
+2017-06-02 03:30:01\Resultado de la comprobación: \48991 en tabla.  - 49393 en archivo. - -402 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-02 03:30:12\Importador de faltas: \49393 Registros leidos. - 49393 Registros insertados.
+2017-06-03 03:30:01\Resultado de la comprobación: \49393 en tabla.  - 49398 en archivo. - -5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-03 03:30:12\Importador de faltas: \49398 Registros leidos. - 49398 Registros insertados.
+2017-06-04 03:30:01\Resultado de la comprobación: \49398 en tabla.  - 49646 en archivo. - -248 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-04 03:30:14\Importador de faltas: \49646 Registros leidos. - 49646 Registros insertados.
+2017-06-05 03:30:01\Resultado de la comprobación: \49646 en tabla.  - 49728 en archivo. - -82 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-05 03:30:12\Importador de faltas: \49728 Registros leidos. - 49728 Registros insertados.
+2017-06-06 03:30:01\Resultado de la comprobación: \49728 en tabla.  - 49728 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-06 03:30:12\Importador de faltas: \49728 Registros leidos. - 49728 Registros insertados.
+2017-06-07 03:30:01\Resultado de la comprobación: \49728 en tabla.  - 49728 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-07 03:30:11\Importador de faltas: \49728 Registros leidos. - 49728 Registros insertados.
+2017-06-08 03:30:01\Resultado de la comprobación: \49728 en tabla.  - 49899 en archivo. - -171 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-08 03:30:11\Importador de faltas: \49899 Registros leidos. - 49899 Registros insertados.
+2017-06-09 03:30:01\Resultado de la comprobación: \49899 en tabla.  - 50045 en archivo. - -146 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-09 03:30:13\Importador de faltas: \50045 Registros leidos. - 50045 Registros insertados.
+2017-06-10 03:30:02\Resultado de la comprobación: \50045 en tabla.  - 50215 en archivo. - -170 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-10 03:30:13\Importador de faltas: \50215 Registros leidos. - 50215 Registros insertados.
+2017-06-11 03:30:01\Resultado de la comprobación: \50215 en tabla.  - 50181 en archivo. - 34 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-11 03:30:11\Importador de faltas: \50181 Registros leidos. - 50181 Registros insertados.
+2017-06-12 03:30:01\Resultado de la comprobación: \50181 en tabla.  - 50178 en archivo. - 3 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-12 03:30:14\Importador de faltas: \50178 Registros leidos. - 50178 Registros insertados.
+2017-06-13 03:30:01\Resultado de la comprobación: \50178 en tabla.  - 50178 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-13 03:30:12\Importador de faltas: \50178 Registros leidos. - 50178 Registros insertados.
+2017-06-14 03:30:01\Resultado de la comprobación: \50178 en tabla.  - 50178 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-14 03:30:12\Importador de faltas: \50178 Registros leidos. - 50178 Registros insertados.
+2017-06-15 03:30:01\Resultado de la comprobación: \50178 en tabla.  - 50156 en archivo. - 22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-15 03:30:13\Importador de faltas: \50156 Registros leidos. - 50156 Registros insertados.
+2017-06-16 03:30:02\Resultado de la comprobación: \50156 en tabla.  - 50123 en archivo. - 33 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-16 03:30:14\Importador de faltas: \50123 Registros leidos. - 50123 Registros insertados.
+2017-06-17 03:30:01\Resultado de la comprobación: \50123 en tabla.  - 50101 en archivo. - 22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-17 03:30:13\Importador de faltas: \50101 Registros leidos. - 50101 Registros insertados.
+2017-06-18 03:30:01\Resultado de la comprobación: \50101 en tabla.  - 50192 en archivo. - -91 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-18 03:30:13\Importador de faltas: \50192 Registros leidos. - 50192 Registros insertados.
+2017-06-19 03:30:01\Resultado de la comprobación: \50192 en tabla.  - 50529 en archivo. - -337 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-19 03:30:15\Importador de faltas: \50529 Registros leidos. - 50529 Registros insertados.
+2017-06-20 03:30:01\Resultado de la comprobación: \50529 en tabla.  - 50529 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-20 03:30:15\Importador de faltas: \50529 Registros leidos. - 50529 Registros insertados.
+2017-06-21 03:30:01\Resultado de la comprobación: \50529 en tabla.  - 50529 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-21 03:30:12\Importador de faltas: \50529 Registros leidos. - 50529 Registros insertados.
+2017-06-22 03:30:01\Resultado de la comprobación: \50529 en tabla.  - 50662 en archivo. - -133 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-22 03:30:11\Importador de faltas: \50662 Registros leidos. - 50662 Registros insertados.
+2017-06-23 03:30:02\Resultado de la comprobación: \50662 en tabla.  - 50662 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-23 03:30:14\Importador de faltas: \50662 Registros leidos. - 50662 Registros insertados.
+2017-06-24 03:30:01\Resultado de la comprobación: \50662 en tabla.  - 50718 en archivo. - -56 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-24 03:30:13\Importador de faltas: \50718 Registros leidos. - 50718 Registros insertados.
+2017-06-25 03:30:02\Resultado de la comprobación: \50718 en tabla.  - 50704 en archivo. - 14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-25 03:30:14\Importador de faltas: \50704 Registros leidos. - 50704 Registros insertados.
+2017-06-26 03:30:01\Resultado de la comprobación: \50704 en tabla.  - 50682 en archivo. - 22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-26 03:30:14\Importador de faltas: \50682 Registros leidos. - 50682 Registros insertados.
+2017-06-27 03:30:02\Resultado de la comprobación: \50682 en tabla.  - 50682 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-27 03:30:13\Importador de faltas: \50682 Registros leidos. - 50682 Registros insertados.
+2017-06-28 03:30:01\Resultado de la comprobación: \50682 en tabla.  - 50682 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-28 03:30:13\Importador de faltas: \50682 Registros leidos. - 50682 Registros insertados.
+2017-06-29 03:30:01\Resultado de la comprobación: \50682 en tabla.  - 50683 en archivo. - -1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-29 03:30:12\Importador de faltas: \50683 Registros leidos. - 50683 Registros insertados.
+2017-06-30 03:30:01\Resultado de la comprobación: \50683 en tabla.  - 50683 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-06-30 03:30:13\Importador de faltas: \50683 Registros leidos. - 50683 Registros insertados.
+2017-07-01 03:30:01\Resultado de la comprobación: \50683 en tabla.  - 50701 en archivo. - -18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-01 03:30:11\Importador de faltas: \50701 Registros leidos. - 50701 Registros insertados.
+2017-07-02 03:30:01\Resultado de la comprobación: \50701 en tabla.  - 50887 en archivo. - -186 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-02 03:30:14\Importador de faltas: \50887 Registros leidos. - 50887 Registros insertados.
+2017-07-03 03:30:01\Resultado de la comprobación: \50887 en tabla.  - 50851 en archivo. - 36 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-03 03:30:13\Importador de faltas: \50851 Registros leidos. - 50851 Registros insertados.
+2017-07-04 03:30:01\Resultado de la comprobación: \50851 en tabla.  - 50851 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-04 03:30:13\Importador de faltas: \50851 Registros leidos. - 50851 Registros insertados.
+2017-07-05 03:30:02\Resultado de la comprobación: \50851 en tabla.  - 50851 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-05 03:30:14\Importador de faltas: \50851 Registros leidos. - 50851 Registros insertados.
+2017-07-06 03:30:02\Resultado de la comprobación: \50851 en tabla.  - 50956 en archivo. - -105 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-06 03:30:15\Importador de faltas: \50956 Registros leidos. - 50956 Registros insertados.
+2017-07-07 03:30:01\Resultado de la comprobación: \50956 en tabla.  - 51051 en archivo. - -95 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-07 03:30:15\Importador de faltas: \51051 Registros leidos. - 51051 Registros insertados.
+2017-07-08 03:30:01\Resultado de la comprobación: \51051 en tabla.  - 51054 en archivo. - -3 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-08 03:30:15\Importador de faltas: \51054 Registros leidos. - 51054 Registros insertados.
+2017-07-09 03:30:01\Resultado de la comprobación: \51054 en tabla.  - 51068 en archivo. - -14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-09 03:30:13\Importador de faltas: \51068 Registros leidos. - 51068 Registros insertados.
+2017-07-10 03:30:01\Resultado de la comprobación: \51068 en tabla.  - 51017 en archivo. - 51 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-10 03:30:12\Importador de faltas: \51017 Registros leidos. - 51017 Registros insertados.
+2017-07-11 03:30:01\Resultado de la comprobación: \51017 en tabla.  - 51017 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-11 03:30:17\Importador de faltas: \51017 Registros leidos. - 51017 Registros insertados.
+2017-07-12 03:30:03\Resultado de la comprobación: \51017 en tabla.  - 51017 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+2017-07-13 03:30:01\Resultado de la comprobación: \51017 en tabla.  - 51242 en archivo. - -225 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-13 03:30:14\Importador de faltas: \51242 Registros leidos. - 51242 Registros insertados.
+2017-07-14 03:30:01\Resultado de la comprobación: \51242 en tabla.  - 51268 en archivo. - -26 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-14 03:30:17\Importador de faltas: \51268 Registros leidos. - 51268 Registros insertados.
+2017-07-15 03:30:02\Resultado de la comprobación: \51268 en tabla.  - 51338 en archivo. - -70 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-15 03:30:15\Importador de faltas: \51338 Registros leidos. - 51338 Registros insertados.
+2017-07-16 03:30:03\Resultado de la comprobación: \51338 en tabla.  - 51313 en archivo. - 25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+2017-07-17 03:30:01\Resultado de la comprobación: \51338 en tabla.  - 51457 en archivo. - -119 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-17 03:30:14\Importador de faltas: \51457 Registros leidos. - 51457 Registros insertados.
+2017-07-18 03:30:01\Resultado de la comprobación: \51457 en tabla.  - 51457 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-18 03:30:14\Importador de faltas: \51457 Registros leidos. - 51457 Registros insertados.
+2017-07-19 03:30:01\Resultado de la comprobación: \51457 en tabla.  - 51457 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-19 03:30:14\Importador de faltas: \51457 Registros leidos. - 51457 Registros insertados.
+2017-07-20 03:30:02\Resultado de la comprobación: \51457 en tabla.  - 51478 en archivo. - -21 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-20 03:30:15\Importador de faltas: \51478 Registros leidos. - 51478 Registros insertados.
+2017-07-21 03:30:01\Resultado de la comprobación: \51478 en tabla.  - 51605 en archivo. - -127 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-21 03:30:12\Importador de faltas: \51605 Registros leidos. - 51605 Registros insertados.
+2017-07-22 03:30:01\Resultado de la comprobación: \51605 en tabla.  - 51670 en archivo. - -65 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-22 03:30:14\Importador de faltas: \51670 Registros leidos. - 51670 Registros insertados.
+2017-07-23 03:30:01\Resultado de la comprobación: \51670 en tabla.  - 51693 en archivo. - -23 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-23 03:30:13\Importador de faltas: \51693 Registros leidos. - 51693 Registros insertados.
+2017-07-24 03:30:01\Resultado de la comprobación: \51693 en tabla.  - 51874 en archivo. - -181 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-24 03:30:13\Importador de faltas: \51874 Registros leidos. - 51874 Registros insertados.
+2017-07-25 03:30:01\Resultado de la comprobación: \51874 en tabla.  - 51874 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-25 03:30:15\Importador de faltas: \51874 Registros leidos. - 51874 Registros insertados.
+2017-07-26 03:30:02\Resultado de la comprobación: \51874 en tabla.  - 51874 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-26 03:30:13\Importador de faltas: \51874 Registros leidos. - 51874 Registros insertados.
+2017-07-27 03:30:01\Resultado de la comprobación: \51874 en tabla.  - 51839 en archivo. - 35 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-27 03:30:14\Importador de faltas: \51839 Registros leidos. - 51839 Registros insertados.
+2017-07-28 03:30:01\Resultado de la comprobación: \51839 en tabla.  - 51845 en archivo. - -6 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-07-28 03:30:12\Importador de faltas: \51845 Registros leidos. - 51845 Registros insertados.
+2017-08-01 03:30:01\Resultado de la comprobación: \51845 en tabla.  - 51964 en archivo. - -119 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-01 03:30:13\Importador de faltas: \51964 Registros leidos. - 51964 Registros insertados.
+2017-08-02 03:30:01\Resultado de la comprobación: \51964 en tabla.  - 51964 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-02 03:30:15\Importador de faltas: \51964 Registros leidos. - 51964 Registros insertados.
+2017-08-03 03:30:01\Resultado de la comprobación: \51964 en tabla.  - 52090 en archivo. - -126 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-03 03:30:14\Importador de faltas: \52090 Registros leidos. - 52090 Registros insertados.
+2017-08-04 03:30:01\Resultado de la comprobación: \52090 en tabla.  - 52139 en archivo. - -49 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-04 03:30:14\Importador de faltas: \52139 Registros leidos. - 52139 Registros insertados.
+2017-08-05 03:30:02\Resultado de la comprobación: \52139 en tabla.  - 52169 en archivo. - -30 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-05 03:30:15\Importador de faltas: \52169 Registros leidos. - 52169 Registros insertados.
+2017-08-06 03:30:01\Resultado de la comprobación: \52169 en tabla.  - 52183 en archivo. - -14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-06 03:30:13\Importador de faltas: \52183 Registros leidos. - 52183 Registros insertados.
+2017-08-07 03:30:01\Resultado de la comprobación: \52183 en tabla.  - 52229 en archivo. - -46 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-07 03:30:13\Importador de faltas: \52229 Registros leidos. - 52229 Registros insertados.
+2017-08-08 03:30:01\Resultado de la comprobación: \52229 en tabla.  - 52229 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-08 03:30:13\Importador de faltas: \52229 Registros leidos. - 52229 Registros insertados.
+2017-08-09 03:30:01\Resultado de la comprobación: \52229 en tabla.  - 52229 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-09 03:30:14\Importador de faltas: \52229 Registros leidos. - 52229 Registros insertados.
+2017-08-10 03:30:01\Resultado de la comprobación: \52229 en tabla.  - 52006 en archivo. - 223 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-10 03:30:14\Importador de faltas: \52006 Registros leidos. - 52006 Registros insertados.
+2017-08-11 03:30:01\Resultado de la comprobación: \52006 en tabla.  - 51994 en archivo. - 12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-11 03:30:13\Importador de faltas: \51994 Registros leidos. - 51994 Registros insertados.
+2017-08-12 03:30:01\Resultado de la comprobación: \51994 en tabla.  - 51990 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-12 03:30:16\Importador de faltas: \51990 Registros leidos. - 51990 Registros insertados.
+2017-08-13 03:30:01\Resultado de la comprobación: \51990 en tabla.  - 52091 en archivo. - -101 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-13 03:30:15\Importador de faltas: \52091 Registros leidos. - 52091 Registros insertados.
+2017-08-14 03:30:01\Resultado de la comprobación: \52091 en tabla.  - 52073 en archivo. - 18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-14 03:30:15\Importador de faltas: \52073 Registros leidos. - 52073 Registros insertados.
+2017-08-15 03:30:01\Resultado de la comprobación: \52073 en tabla.  - 52073 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-15 03:30:14\Importador de faltas: \52073 Registros leidos. - 52073 Registros insertados.
+2017-08-16 03:30:01\Resultado de la comprobación: \52073 en tabla.  - 52073 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-16 03:30:13\Importador de faltas: \52073 Registros leidos. - 52073 Registros insertados.
+2017-08-17 03:30:01\Resultado de la comprobación: \52073 en tabla.  - 52114 en archivo. - -41 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-17 03:30:13\Importador de faltas: \52114 Registros leidos. - 52114 Registros insertados.
+2017-08-18 03:30:01\Resultado de la comprobación: \52114 en tabla.  - 52109 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-18 03:30:15\Importador de faltas: \52109 Registros leidos. - 52109 Registros insertados.
+2017-08-19 03:30:01\Resultado de la comprobación: \52109 en tabla.  - 52095 en archivo. - 14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-19 03:30:14\Importador de faltas: \52095 Registros leidos. - 52095 Registros insertados.
+2017-08-20 03:30:01\Resultado de la comprobación: \52095 en tabla.  - 52069 en archivo. - 26 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-20 03:30:14\Importador de faltas: \52069 Registros leidos. - 52069 Registros insertados.
+2017-08-21 03:30:01\Resultado de la comprobación: \52069 en tabla.  - 52049 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-21 03:30:14\Importador de faltas: \52049 Registros leidos. - 52049 Registros insertados.
+2017-08-22 03:30:01\Resultado de la comprobación: \52049 en tabla.  - 52049 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-22 03:30:15\Importador de faltas: \52049 Registros leidos. - 52049 Registros insertados.
+2017-08-23 03:30:01\Resultado de la comprobación: \52049 en tabla.  - 52049 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-23 03:30:15\Importador de faltas: \52049 Registros leidos. - 52049 Registros insertados.
+2017-08-24 03:30:02\Resultado de la comprobación: \52049 en tabla.  - 52049 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-24 03:30:15\Importador de faltas: \52049 Registros leidos. - 52049 Registros insertados.
+2017-08-25 03:30:01\Resultado de la comprobación: \52049 en tabla.  - 52030 en archivo. - 19 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-25 03:30:14\Importador de faltas: \52030 Registros leidos. - 52030 Registros insertados.
+2017-08-26 03:30:02\Resultado de la comprobación: \52030 en tabla.  - 52355 en archivo. - -325 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-26 03:30:13\Importador de faltas: \52355 Registros leidos. - 52355 Registros insertados.
+2017-08-27 03:30:01\Resultado de la comprobación: \52355 en tabla.  - 52351 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-27 03:30:13\Importador de faltas: \52351 Registros leidos. - 52351 Registros insertados.
+2017-08-28 03:30:02\Resultado de la comprobación: \52351 en tabla.  - 52327 en archivo. - 24 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-28 03:30:15\Importador de faltas: \52327 Registros leidos. - 52327 Registros insertados.
+2017-08-29 03:30:01\Resultado de la comprobación: \52327 en tabla.  - 52327 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-08-29 03:30:15\Importador de faltas: \52327 Registros leidos. - 52327 Registros insertados.
+2017-09-05 03:30:02\Resultado de la comprobación: \52327 en tabla.  - 52327 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-05 03:30:14\Importador de faltas: \52327 Registros leidos. - 52327 Registros insertados.
+2017-09-06 03:30:02\Resultado de la comprobación: \52327 en tabla.  - 52327 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-06 03:30:16\Importador de faltas: \52327 Registros leidos. - 52327 Registros insertados.
+2017-09-07 03:30:01\Resultado de la comprobación: \52327 en tabla.  - 52356 en archivo. - -29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-07 03:30:15\Importador de faltas: \52356 Registros leidos. - 52356 Registros insertados.
+2017-09-08 03:30:01\Resultado de la comprobación: \52356 en tabla.  - 52816 en archivo. - -460 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-08 03:30:14\Importador de faltas: \52816 Registros leidos. - 52816 Registros insertados.
+2017-09-09 03:30:01\Resultado de la comprobación: \52816 en tabla.  - 52796 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-09 03:30:12\Importador de faltas: \52796 Registros leidos. - 52796 Registros insertados.
+2017-09-10 03:30:01\Resultado de la comprobación: \52796 en tabla.  - 52847 en archivo. - -51 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-10 03:30:15\Importador de faltas: \52847 Registros leidos. - 52847 Registros insertados.
+2017-09-11 03:30:02\Resultado de la comprobación: \52847 en tabla.  - 52832 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-11 03:30:14\Importador de faltas: \52832 Registros leidos. - 52832 Registros insertados.
+2017-09-12 03:30:01\Resultado de la comprobación: \52832 en tabla.  - 52832 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-12 03:30:13\Importador de faltas: \52832 Registros leidos. - 52832 Registros insertados.
+2017-09-13 03:30:01\Resultado de la comprobación: \52832 en tabla.  - 52832 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-13 03:30:14\Importador de faltas: \52832 Registros leidos. - 52832 Registros insertados.
+2017-09-14 03:30:01\Resultado de la comprobación: \52832 en tabla.  - 52613 en archivo. - 219 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-14 03:30:13\Importador de faltas: \52613 Registros leidos. - 52613 Registros insertados.
+2017-09-15 03:30:01\Resultado de la comprobación: \52613 en tabla.  - 52619 en archivo. - -6 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-15 03:30:13\Importador de faltas: \52619 Registros leidos. - 52619 Registros insertados.
+2017-09-16 03:30:01\Resultado de la comprobación: \52619 en tabla.  - 52936 en archivo. - -317 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-16 03:30:13\Importador de faltas: \52936 Registros leidos. - 52936 Registros insertados.
+2017-09-17 03:30:01\Resultado de la comprobación: \52936 en tabla.  - 52945 en archivo. - -9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-17 03:30:13\Importador de faltas: \52945 Registros leidos. - 52945 Registros insertados.
+2017-09-18 03:30:01\Resultado de la comprobación: \52945 en tabla.  - 52914 en archivo. - 31 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-18 03:30:15\Importador de faltas: \52914 Registros leidos. - 52914 Registros insertados.
+2017-09-26 03:30:01\Resultado de la comprobación: \52914 en tabla.  - 52898 en archivo. - 16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-26 03:30:12\Importador de faltas: \52898 Registros leidos. - 52898 Registros insertados.
+2017-09-27 03:30:01\Resultado de la comprobación: \52898 en tabla.  - 52898 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-27 03:30:12\Importador de faltas: \52898 Registros leidos. - 52898 Registros insertados.
+2017-09-28 03:30:01\Resultado de la comprobación: \52898 en tabla.  - 52931 en archivo. - -33 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-28 03:30:12\Importador de faltas: \52931 Registros leidos. - 52931 Registros insertados.
+2017-09-29 03:30:01\Resultado de la comprobación: \52931 en tabla.  - 52922 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-29 03:30:13\Importador de faltas: \52922 Registros leidos. - 52922 Registros insertados.
+2017-09-30 03:30:01\Resultado de la comprobación: \52922 en tabla.  - 52944 en archivo. - -22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-09-30 03:30:13\Importador de faltas: \52944 Registros leidos. - 52944 Registros insertados.
+2017-10-01 03:30:01\Resultado de la comprobación: \52944 en tabla.  - 52960 en archivo. - -16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-01 03:30:12\Importador de faltas: \52960 Registros leidos. - 52960 Registros insertados.
+2017-10-02 03:30:01\Resultado de la comprobación: \52960 en tabla.  - 52953 en archivo. - 7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-02 03:30:13\Importador de faltas: \52953 Registros leidos. - 52953 Registros insertados.
+2017-10-03 03:30:01\Resultado de la comprobación: \52953 en tabla.  - 52953 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-03 03:30:14\Importador de faltas: \52953 Registros leidos. - 52953 Registros insertados.
+2017-10-04 03:30:01\Resultado de la comprobación: \52953 en tabla.  - 52953 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-04 03:30:12\Importador de faltas: \52953 Registros leidos. - 52953 Registros insertados.
+2017-10-05 03:30:02\Resultado de la comprobación: \52953 en tabla.  - 52960 en archivo. - -7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-05 03:30:13\Importador de faltas: \52960 Registros leidos. - 52960 Registros insertados.
+2017-10-06 03:30:01\Resultado de la comprobación: \52960 en tabla.  - 52949 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-06 03:30:12\Importador de faltas: \52949 Registros leidos. - 52949 Registros insertados.
+2017-10-07 03:30:01\Resultado de la comprobación: \52949 en tabla.  - 52977 en archivo. - -28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-07 03:30:13\Importador de faltas: \52977 Registros leidos. - 52977 Registros insertados.
+2017-10-08 03:30:02\Resultado de la comprobación: \52977 en tabla.  - 52989 en archivo. - -12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-08 03:30:15\Importador de faltas: \52989 Registros leidos. - 52989 Registros insertados.
+2017-10-09 03:30:02\Resultado de la comprobación: \52989 en tabla.  - 52989 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-09 03:30:13\Importador de faltas: \52989 Registros leidos. - 52989 Registros insertados.
+2017-10-10 03:30:01\Resultado de la comprobación: \52989 en tabla.  - 52989 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-10 03:30:14\Importador de faltas: \52989 Registros leidos. - 52989 Registros insertados.
+2017-10-11 03:30:01\Resultado de la comprobación: \52989 en tabla.  - 52989 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-11 03:30:15\Importador de faltas: \52989 Registros leidos. - 52989 Registros insertados.
+2017-10-12 03:30:01\Resultado de la comprobación: \52989 en tabla.  - 52848 en archivo. - 141 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-12 03:30:15\Importador de faltas: \52848 Registros leidos. - 52848 Registros insertados.
+2017-10-13 03:30:02\Resultado de la comprobación: \52848 en tabla.  - 0 en archivo. - 52848 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+2017-10-14 03:30:01\Resultado de la comprobación: \52848 en tabla.  - 52835 en archivo. - 13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-14 03:30:14\Importador de faltas: \52835 Registros leidos. - 52835 Registros insertados.
+2017-10-15 03:30:01\Resultado de la comprobación: \52835 en tabla.  - 52828 en archivo. - 7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-15 03:30:13\Importador de faltas: \52828 Registros leidos. - 52828 Registros insertados.
+2017-10-16 03:30:01\Resultado de la comprobación: \52828 en tabla.  - 52841 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-16 03:30:16\Importador de faltas: \52841 Registros leidos. - 52841 Registros insertados.
+2017-10-17 03:30:01\Resultado de la comprobación: \52841 en tabla.  - 52841 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-17 03:30:12\Importador de faltas: \52841 Registros leidos. - 52841 Registros insertados.
+2017-10-19 03:30:01\Resultado de la comprobación: \52841 en tabla.  - 52841 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-19 03:30:14\Importador de faltas: \52841 Registros leidos. - 52841 Registros insertados.
+2017-10-20 03:30:02\Resultado de la comprobación: \52841 en tabla.  - 52841 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-20 03:30:15\Importador de faltas: \52841 Registros leidos. - 52841 Registros insertados.
+2017-10-21 03:30:01\Resultado de la comprobación: \52841 en tabla.  - 52850 en archivo. - -9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-21 03:30:12\Importador de faltas: \52850 Registros leidos. - 52850 Registros insertados.
+2017-10-22 03:30:01\Resultado de la comprobación: \52850 en tabla.  - 53501 en archivo. - -651 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-22 03:30:15\Importador de faltas: \53501 Registros leidos. - 53501 Registros insertados.
+2017-10-23 03:30:01\Resultado de la comprobación: \53501 en tabla.  - 53485 en archivo. - 16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-23 03:30:15\Importador de faltas: \53485 Registros leidos. - 53485 Registros insertados.
+2017-10-24 03:30:01\Resultado de la comprobación: \53485 en tabla.  - 53485 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-24 03:30:14\Importador de faltas: \53485 Registros leidos. - 53485 Registros insertados.
+2017-10-25 03:30:01\Resultado de la comprobación: \53485 en tabla.  - 53485 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-25 03:30:14\Importador de faltas: \53485 Registros leidos. - 53485 Registros insertados.
+2017-10-31 03:30:02\Resultado de la comprobación: \53485 en tabla.  - 53459 en archivo. - 26 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-10-31 03:30:15\Importador de faltas: \53459 Registros leidos. - 53459 Registros insertados.
+2017-11-01 03:30:01\Resultado de la comprobación: \53459 en tabla.  - 53459 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-01 03:30:13\Importador de faltas: \53459 Registros leidos. - 53459 Registros insertados.
+2017-11-02 03:30:02\Resultado de la comprobación: \53459 en tabla.  - 53646 en archivo. - -187 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-02 03:30:14\Importador de faltas: \53646 Registros leidos. - 53646 Registros insertados.
+2017-11-03 03:30:01\Resultado de la comprobación: \53646 en tabla.  - 53621 en archivo. - 25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-03 03:30:12\Importador de faltas: \53621 Registros leidos. - 53621 Registros insertados.
+2017-11-04 03:30:02\Resultado de la comprobación: \53621 en tabla.  - 53622 en archivo. - -1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-04 03:30:16\Importador de faltas: \53622 Registros leidos. - 53622 Registros insertados.
+2017-11-05 03:30:02\Resultado de la comprobación: \53622 en tabla.  - 53814 en archivo. - -192 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-05 03:30:14\Importador de faltas: \53814 Registros leidos. - 53814 Registros insertados.
+2017-11-06 03:30:01\Resultado de la comprobación: \53814 en tabla.  - 53138 en archivo. - 676 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-06 03:30:15\Importador de faltas: \53138 Registros leidos. - 53138 Registros insertados.
+2017-11-07 03:30:01\Resultado de la comprobación: \53138 en tabla.  - 53138 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-07 03:30:15\Importador de faltas: \53138 Registros leidos. - 53138 Registros insertados.
+2017-11-08 03:30:01\Resultado de la comprobación: \53138 en tabla.  - 53138 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-08 03:30:13\Importador de faltas: \53138 Registros leidos. - 53138 Registros insertados.
+2017-11-09 03:30:01\Resultado de la comprobación: \53138 en tabla.  - 47076 en archivo. - 6062 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-09 03:30:14\Importador de faltas: \47076 Registros leidos. - 47076 Registros insertados.
+2017-11-10 03:30:01\Resultado de la comprobación: \47076 en tabla.  - 47047 en archivo. - 29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-10 03:30:12\Importador de faltas: \47047 Registros leidos. - 47047 Registros insertados.
+2017-11-11 03:30:01\Resultado de la comprobación: \47047 en tabla.  - 47030 en archivo. - 17 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-11 03:30:12\Importador de faltas: \47030 Registros leidos. - 47030 Registros insertados.
+2017-11-12 03:30:01\Resultado de la comprobación: \47030 en tabla.  - 47025 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-12 03:30:12\Importador de faltas: \47025 Registros leidos. - 47025 Registros insertados.
+2017-11-13 03:30:02\Resultado de la comprobación: \47025 en tabla.  - 47017 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-13 03:30:14\Importador de faltas: \47017 Registros leidos. - 47017 Registros insertados.
+2017-11-14 03:30:01\Resultado de la comprobación: \47017 en tabla.  - 47017 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-14 03:30:12\Importador de faltas: \47017 Registros leidos. - 47017 Registros insertados.
+2017-11-15 03:30:01\Resultado de la comprobación: \47017 en tabla.  - 47017 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-15 03:30:14\Importador de faltas: \47017 Registros leidos. - 47017 Registros insertados.
+2017-11-16 03:30:01\Resultado de la comprobación: \47017 en tabla.  - 47017 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-16 03:30:14\Importador de faltas: \47017 Registros leidos. - 47017 Registros insertados.
+2017-11-17 03:30:01\Resultado de la comprobación: \47017 en tabla.  - 46863 en archivo. - 154 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-17 03:30:13\Importador de faltas: \46863 Registros leidos. - 46863 Registros insertados.
+2017-11-18 03:30:01\Resultado de la comprobación: \46863 en tabla.  - 46870 en archivo. - -7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-18 03:30:12\Importador de faltas: \46870 Registros leidos. - 46870 Registros insertados.
+2017-11-19 03:30:01\Resultado de la comprobación: \46870 en tabla.  - 46860 en archivo. - 10 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-19 03:30:12\Importador de faltas: \46860 Registros leidos. - 46860 Registros insertados.
+2017-11-20 03:30:01\Resultado de la comprobación: \46860 en tabla.  - 46838 en archivo. - 22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-20 03:30:13\Importador de faltas: \46838 Registros leidos. - 46838 Registros insertados.
+2017-11-21 03:30:02\Resultado de la comprobación: \46838 en tabla.  - 46838 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-21 03:30:14\Importador de faltas: \46838 Registros leidos. - 46838 Registros insertados.
+2017-11-22 03:30:01\Resultado de la comprobación: \46838 en tabla.  - 46838 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-22 03:30:12\Importador de faltas: \46838 Registros leidos. - 46838 Registros insertados.
+2017-11-23 03:30:01\Resultado de la comprobación: \46838 en tabla.  - 46838 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-23 03:30:11\Importador de faltas: \46838 Registros leidos. - 46838 Registros insertados.
+2017-11-24 03:30:01\Resultado de la comprobación: \46838 en tabla.  - 46825 en archivo. - 13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-24 03:30:14\Importador de faltas: \46825 Registros leidos. - 46825 Registros insertados.
+2017-11-25 03:30:02\Resultado de la comprobación: \46825 en tabla.  - 46838 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-25 03:30:12\Importador de faltas: \46838 Registros leidos. - 46838 Registros insertados.
+2017-11-26 03:30:01\Resultado de la comprobación: \46838 en tabla.  - 46814 en archivo. - 24 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-26 03:30:13\Importador de faltas: \46814 Registros leidos. - 46814 Registros insertados.
+2017-11-27 03:30:02\Resultado de la comprobación: \46814 en tabla.  - 46802 en archivo. - 12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-27 03:30:13\Importador de faltas: \46802 Registros leidos. - 46802 Registros insertados.
+2017-11-28 03:30:01\Resultado de la comprobación: \46802 en tabla.  - 46802 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-28 03:30:13\Importador de faltas: \46802 Registros leidos. - 46802 Registros insertados.
+2017-11-29 03:30:02\Resultado de la comprobación: \46802 en tabla.  - 46802 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-29 03:30:13\Importador de faltas: \46802 Registros leidos. - 46802 Registros insertados.
+2017-11-30 03:30:02\Resultado de la comprobación: \46802 en tabla.  - 46793 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-11-30 03:30:13\Importador de faltas: \46793 Registros leidos. - 46793 Registros insertados.
+2017-12-01 03:30:01\Resultado de la comprobación: \46793 en tabla.  - 47213 en archivo. - -420 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-01 03:30:12\Importador de faltas: \47213 Registros leidos. - 47213 Registros insertados.
+2017-12-02 03:30:01\Resultado de la comprobación: \47213 en tabla.  - 47198 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-02 03:30:12\Importador de faltas: \47198 Registros leidos. - 47198 Registros insertados.
+2017-12-03 03:30:02\Resultado de la comprobación: \47198 en tabla.  - 47175 en archivo. - 23 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-03 03:30:13\Importador de faltas: \47175 Registros leidos. - 47175 Registros insertados.
+2017-12-04 03:30:01\Resultado de la comprobación: \47175 en tabla.  - 47193 en archivo. - -18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-04 03:30:14\Importador de faltas: \47193 Registros leidos. - 47193 Registros insertados.
+2017-12-05 03:30:01\Resultado de la comprobación: \47193 en tabla.  - 47193 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-05 03:30:12\Importador de faltas: \47193 Registros leidos. - 47193 Registros insertados.
+2017-12-12 03:30:01\Resultado de la comprobación: \47193 en tabla.  - 47233 en archivo. - -40 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-12 03:30:12\Importador de faltas: \47233 Registros leidos. - 47233 Registros insertados.
+2017-12-13 03:30:02\Resultado de la comprobación: \47233 en tabla.  - 47233 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-13 03:30:15\Importador de faltas: \47233 Registros leidos. - 47233 Registros insertados.
+2017-12-14 03:30:01\Resultado de la comprobación: \47233 en tabla.  - 47224 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-14 03:30:12\Importador de faltas: \47224 Registros leidos. - 47224 Registros insertados.
+2017-12-15 03:30:01\Resultado de la comprobación: \47224 en tabla.  - 47030 en archivo. - 194 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-15 03:30:13\Importador de faltas: \47030 Registros leidos. - 47030 Registros insertados.
+2017-12-16 03:30:01\Resultado de la comprobación: \47030 en tabla.  - 47047 en archivo. - -17 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-16 03:30:14\Importador de faltas: \47047 Registros leidos. - 47047 Registros insertados.
+2017-12-17 03:30:02\Resultado de la comprobación: \47047 en tabla.  - 47021 en archivo. - 26 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-17 03:30:13\Importador de faltas: \47021 Registros leidos. - 47021 Registros insertados.
+2017-12-18 03:30:01\Resultado de la comprobación: \47021 en tabla.  - 47039 en archivo. - -18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-18 03:30:13\Importador de faltas: \47039 Registros leidos. - 47039 Registros insertados.
+2017-12-19 03:30:01\Resultado de la comprobación: \47039 en tabla.  - 47039 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-19 03:30:13\Importador de faltas: \47039 Registros leidos. - 47039 Registros insertados.
+2017-12-20 03:30:01\Resultado de la comprobación: \47039 en tabla.  - 47039 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-20 03:30:13\Importador de faltas: \47039 Registros leidos. - 47039 Registros insertados.
+2017-12-21 03:30:01\Resultado de la comprobación: \47039 en tabla.  - 47050 en archivo. - -11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-21 03:30:13\Importador de faltas: \47050 Registros leidos. - 47050 Registros insertados.
+2017-12-22 03:30:01\Resultado de la comprobación: \47050 en tabla.  - 47043 en archivo. - 7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-22 03:30:13\Importador de faltas: \47043 Registros leidos. - 47043 Registros insertados.
+2017-12-23 03:30:01\Resultado de la comprobación: \47043 en tabla.  - 47039 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-23 03:30:12\Importador de faltas: \47039 Registros leidos. - 47039 Registros insertados.
+2017-12-24 03:30:01\Resultado de la comprobación: \47039 en tabla.  - 47017 en archivo. - 22 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-24 03:30:13\Importador de faltas: \47017 Registros leidos. - 47017 Registros insertados.
+2017-12-25 03:30:01\Resultado de la comprobación: \47017 en tabla.  - 46994 en archivo. - 23 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-25 03:30:14\Importador de faltas: \46994 Registros leidos. - 46994 Registros insertados.
+2017-12-26 03:30:01\Resultado de la comprobación: \46994 en tabla.  - 46994 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-26 03:30:12\Importador de faltas: \46994 Registros leidos. - 46994 Registros insertados.
+2017-12-27 03:30:02\Resultado de la comprobación: \46994 en tabla.  - 46994 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2017-12-27 03:30:12\Importador de faltas: \46994 Registros leidos. - 46994 Registros insertados.
+2018-01-03 03:30:01\Resultado de la comprobación: \46994 en tabla.  - 46902 en archivo. - 92 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-03 03:30:13\Importador de faltas: \46902 Registros leidos. - 46902 Registros insertados.
+2018-01-04 03:30:01\Resultado de la comprobación: \46902 en tabla.  - 46902 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-04 03:30:11\Importador de faltas: \46902 Registros leidos. - 46902 Registros insertados.
+2018-01-05 03:30:01\Resultado de la comprobación: \46902 en tabla.  - 46922 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-05 03:30:13\Importador de faltas: \46922 Registros leidos. - 46922 Registros insertados.
+2018-01-06 03:30:01\Resultado de la comprobación: \46922 en tabla.  - 46942 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-06 03:30:12\Importador de faltas: \46942 Registros leidos. - 46942 Registros insertados.
+2018-01-07 03:30:01\Resultado de la comprobación: \46942 en tabla.  - 46807 en archivo. - 135 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-07 03:30:12\Importador de faltas: \46807 Registros leidos. - 46807 Registros insertados.
+2018-01-08 03:30:01\Resultado de la comprobación: \46807 en tabla.  - 46818 en archivo. - -11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-08 03:30:13\Importador de faltas: \46818 Registros leidos. - 46818 Registros insertados.
+2018-01-09 03:30:01\Resultado de la comprobación: \46818 en tabla.  - 46818 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-09 03:30:12\Importador de faltas: \46818 Registros leidos. - 46818 Registros insertados.
+2018-01-10 03:30:01\Resultado de la comprobación: \46818 en tabla.  - 46818 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-10 03:30:12\Importador de faltas: \46818 Registros leidos. - 46818 Registros insertados.
+2018-01-11 03:30:02\Resultado de la comprobación: \46818 en tabla.  - 46853 en archivo. - -35 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-11 03:30:14\Importador de faltas: \46853 Registros leidos. - 46853 Registros insertados.
+2018-01-12 03:30:02\Resultado de la comprobación: \46853 en tabla.  - 46918 en archivo. - -65 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-12 03:30:13\Importador de faltas: \46918 Registros leidos. - 46918 Registros insertados.
+2018-01-13 03:30:02\Resultado de la comprobación: \46918 en tabla.  - 46910 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-13 03:30:13\Importador de faltas: \46910 Registros leidos. - 46910 Registros insertados.
+2018-01-14 03:30:01\Resultado de la comprobación: \46910 en tabla.  - 46935 en archivo. - -25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-14 03:30:13\Importador de faltas: \46935 Registros leidos. - 46935 Registros insertados.
+2018-01-15 03:30:01\Resultado de la comprobación: \46935 en tabla.  - 46936 en archivo. - -1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-15 03:30:12\Importador de faltas: \46936 Registros leidos. - 46936 Registros insertados.
+2018-01-16 03:30:02\Resultado de la comprobación: \46936 en tabla.  - 46936 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-16 03:30:14\Importador de faltas: \46936 Registros leidos. - 46936 Registros insertados.
+2018-01-17 03:30:01\Resultado de la comprobación: \46936 en tabla.  - 46936 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-17 03:30:12\Importador de faltas: \46936 Registros leidos. - 46936 Registros insertados.
+2018-01-18 03:30:01\Resultado de la comprobación: \46936 en tabla.  - 46948 en archivo. - -12 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-18 03:30:13\Importador de faltas: \46948 Registros leidos. - 46948 Registros insertados.
+2018-01-19 03:30:01\Resultado de la comprobación: \46948 en tabla.  - 46962 en archivo. - -14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-19 03:30:12\Importador de faltas: \46962 Registros leidos. - 46962 Registros insertados.
+2018-01-20 03:30:01\Resultado de la comprobación: \46962 en tabla.  - 47016 en archivo. - -54 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-20 03:30:12\Importador de faltas: \47016 Registros leidos. - 47016 Registros insertados.
+2018-01-21 03:30:01\Resultado de la comprobación: \47016 en tabla.  - 47054 en archivo. - -38 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-21 03:30:14\Importador de faltas: \47054 Registros leidos. - 47054 Registros insertados.
+2018-01-22 03:30:01\Resultado de la comprobación: \47054 en tabla.  - 47035 en archivo. - 19 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-22 03:30:13\Importador de faltas: \47035 Registros leidos. - 47035 Registros insertados.
+2018-01-23 03:30:01\Resultado de la comprobación: \47035 en tabla.  - 47035 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-23 03:30:13\Importador de faltas: \47035 Registros leidos. - 47035 Registros insertados.
+2018-01-24 03:30:01\Resultado de la comprobación: \47035 en tabla.  - 47035 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-24 03:30:12\Importador de faltas: \47035 Registros leidos. - 47035 Registros insertados.
+2018-01-25 03:30:02\Resultado de la comprobación: \47035 en tabla.  - 47204 en archivo. - -169 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-25 03:30:14\Importador de faltas: \47204 Registros leidos. - 47204 Registros insertados.
+2018-01-26 03:30:01\Resultado de la comprobación: \47204 en tabla.  - 47429 en archivo. - -225 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-26 03:30:13\Importador de faltas: \47429 Registros leidos. - 47429 Registros insertados.
+2018-01-27 03:30:01\Resultado de la comprobación: \47429 en tabla.  - 47449 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-27 03:30:19\Importador de faltas: \47449 Registros leidos. - 47449 Registros insertados.
+2018-01-28 03:30:01\Resultado de la comprobación: \47449 en tabla.  - 47631 en archivo. - -182 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-28 03:30:14\Importador de faltas: \47631 Registros leidos. - 47631 Registros insertados.
+2018-01-29 03:30:01\Resultado de la comprobación: \47631 en tabla.  - 47627 en archivo. - 4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-29 03:30:14\Importador de faltas: \47627 Registros leidos. - 47627 Registros insertados.
+2018-01-30 03:30:01\Resultado de la comprobación: \47627 en tabla.  - 47627 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-30 03:30:13\Importador de faltas: \47627 Registros leidos. - 47627 Registros insertados.
+2018-01-31 03:30:01\Resultado de la comprobación: \47627 en tabla.  - 47627 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-01-31 03:30:12\Importador de faltas: \47627 Registros leidos. - 47627 Registros insertados.
+2018-02-01 03:30:01\Resultado de la comprobación: \47627 en tabla.  - 47641 en archivo. - -14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-02-01 03:30:14\Importador de faltas: \47641 Registros leidos. - 47641 Registros insertados.
+2018-02-02 03:30:01\Resultado de la comprobación: \47641 en tabla.  - 47646 en archivo. - -5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-02-02 03:30:13\Importador de faltas: \47646 Registros leidos. - 47646 Registros insertados.
+2018-02-03 03:30:01\Resultado de la comprobación: \47646 en tabla.  - 47653 en archivo. - -7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-02-03 03:30:12\Importador de faltas: \47653 Registros leidos. - 47653 Registros insertados.
+2018-02-04 03:30:01\Resultado de la comprobación: \47653 en tabla.  - 49027 en archivo. - -1374 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-02-04 03:30:13\Importador de faltas: \49027 Registros leidos. - 49027 Registros insertados.
+2018-02-05 03:30:01\Resultado de la comprobación: \49027 en tabla.  - 48822 en archivo. - 205 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-02-05 03:30:13\Importador de faltas: \48822 Registros leidos. - 48822 Registros insertados.
+2018-02-06 03:30:01\Resultado de la comprobación: \48822 en tabla.  - 48822 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-02-06 03:30:14\Importador de faltas: \48822 Registros leidos. - 48822 Registros insertados.
+2018-08-21 01:18:28\Resultado de la comprobación: \48822 en tabla.  - 50590 en archivo. - -1768 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-21 01:18:52\Importador de faltas: \50590 Registros leidos. - 50590 Registros insertados.
+2018-08-21 01:23:41\Resultado de la comprobación: \50590 en tabla.  - 50590 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-21 01:24:03\Importador de faltas: \50590 Registros leidos. - 50590 Registros insertados.
+2018-08-21 01:24:44\Resultado de la comprobación: \50590 en tabla.  - 50590 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-21 01:25:06\Importador de faltas: \50590 Registros leidos. - 50590 Registros insertados.
+2018-08-22 03:30:01\Resultado de la comprobación: \50590 en tabla.  - 50590 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-22 03:30:25\Importador de faltas: \50590 Registros leidos. - 50590 Registros insertados.
+2018-08-23 03:30:01\Resultado de la comprobación: \50590 en tabla.  - 50590 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-23 03:30:26\Importador de faltas: \50590 Registros leidos. - 50590 Registros insertados.
+2018-08-24 03:30:02\Resultado de la comprobación: \50590 en tabla.  - 50582 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-24 03:30:27\Importador de faltas: \50582 Registros leidos. - 50582 Registros insertados.
+2018-08-25 03:30:02\Resultado de la comprobación: \50582 en tabla.  - 50574 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-25 03:30:27\Importador de faltas: \50574 Registros leidos. - 50574 Registros insertados.
+2018-08-26 03:30:01\Resultado de la comprobación: \50574 en tabla.  - 50599 en archivo. - -25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-26 03:30:24\Importador de faltas: \50599 Registros leidos. - 50599 Registros insertados.
+2018-08-27 03:30:02\Resultado de la comprobación: \50599 en tabla.  - 50628 en archivo. - -29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-27 03:30:27\Importador de faltas: \50628 Registros leidos. - 50628 Registros insertados.
+2018-08-28 03:30:02\Resultado de la comprobación: \50628 en tabla.  - 50628 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-28 03:30:15\Importador de faltas: \50628 Registros leidos. - 50628 Registros insertados.
+2018-08-29 03:30:02\Resultado de la comprobación: \50628 en tabla.  - 50628 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-29 03:30:27\Importador de faltas: \50628 Registros leidos. - 50628 Registros insertados.
+2018-08-30 03:30:01\Resultado de la comprobación: \50628 en tabla.  - 50694 en archivo. - -66 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-30 03:30:15\Importador de faltas: \50694 Registros leidos. - 50694 Registros insertados.
+2018-08-31 03:30:02\Resultado de la comprobación: \50694 en tabla.  - 50666 en archivo. - 28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-08-31 03:30:26\Importador de faltas: \50666 Registros leidos. - 50666 Registros insertados.
+2018-09-01 03:30:01\Resultado de la comprobación: \50666 en tabla.  - 50670 en archivo. - -4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-01 03:30:27\Importador de faltas: \50670 Registros leidos. - 50670 Registros insertados.
+2018-09-02 03:30:02\Resultado de la comprobación: \50670 en tabla.  - 50681 en archivo. - -11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-02 03:30:25\Importador de faltas: \50681 Registros leidos. - 50681 Registros insertados.
+2018-09-03 03:30:02\Resultado de la comprobación: \50681 en tabla.  - 50662 en archivo. - 19 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-03 03:30:28\Importador de faltas: \50662 Registros leidos. - 50662 Registros insertados.
+2018-09-03 10:09:46\Resultado de la comprobación: \50662 en tabla.  - 50662 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-03 10:10:11\Importador de faltas: \50662 Registros leidos. - 50662 Registros insertados.
+2018-09-04 03:30:01\Resultado de la comprobación: \50662 en tabla.  - 50662 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-04 03:30:25\Importador de faltas: \50662 Registros leidos. - 50662 Registros insertados.
+2018-09-05 03:30:02\Resultado de la comprobación: \50662 en tabla.  - 50662 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-05 03:30:27\Importador de faltas: \50662 Registros leidos. - 50662 Registros insertados.
+2018-09-06 03:30:01\Resultado de la comprobación: \50662 en tabla.  - 50647 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-06 03:30:13\Importador de faltas: \50647 Registros leidos. - 50647 Registros insertados.
+2018-09-07 03:30:01\Resultado de la comprobación: \50647 en tabla.  - 50681 en archivo. - -34 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-07 03:30:14\Importador de faltas: \50681 Registros leidos. - 50681 Registros insertados.
+2018-09-08 03:30:02\Resultado de la comprobación: \50681 en tabla.  - 50653 en archivo. - 28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-08 03:30:25\Importador de faltas: \50653 Registros leidos. - 50653 Registros insertados.
+2018-09-09 03:30:02\Resultado de la comprobación: \50653 en tabla.  - 50644 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-09 03:30:26\Importador de faltas: \50644 Registros leidos. - 50644 Registros insertados.
+2018-09-10 03:30:02\Resultado de la comprobación: \50644 en tabla.  - 50612 en archivo. - 32 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-10 03:30:25\Importador de faltas: \50612 Registros leidos. - 50612 Registros insertados.
+2018-09-11 03:30:01\Resultado de la comprobación: \50612 en tabla.  - 50612 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-11 03:30:23\Importador de faltas: \50612 Registros leidos. - 50612 Registros insertados.
+2018-09-12 03:30:01\Resultado de la comprobación: \50612 en tabla.  - 50612 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-12 03:30:25\Importador de faltas: \50612 Registros leidos. - 50612 Registros insertados.
+2018-09-13 03:30:02\Resultado de la comprobación: \50612 en tabla.  - 50484 en archivo. - 128 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-13 03:30:14\Importador de faltas: \50484 Registros leidos. - 50484 Registros insertados.
+2018-09-14 03:30:01\Resultado de la comprobación: \50484 en tabla.  - 50503 en archivo. - -19 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-14 03:30:23\Importador de faltas: \50503 Registros leidos. - 50503 Registros insertados.
+2018-09-15 03:30:01\Resultado de la comprobación: \50503 en tabla.  - 50498 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-15 03:30:25\Importador de faltas: \50498 Registros leidos. - 50498 Registros insertados.
+2018-09-16 03:30:02\Resultado de la comprobación: \50498 en tabla.  - 50500 en archivo. - -2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-16 03:30:25\Importador de faltas: \50500 Registros leidos. - 50500 Registros insertados.
+2018-09-17 03:30:01\Resultado de la comprobación: \50500 en tabla.  - 50439 en archivo. - 61 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-17 03:30:26\Importador de faltas: \50439 Registros leidos. - 50439 Registros insertados.
+2018-09-18 03:30:01\Resultado de la comprobación: \50439 en tabla.  - 50439 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-18 03:30:26\Importador de faltas: \50439 Registros leidos. - 50439 Registros insertados.
+2018-09-19 03:30:02\Resultado de la comprobación: \50439 en tabla.  - 50439 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-19 03:30:27\Importador de faltas: \50439 Registros leidos. - 50439 Registros insertados.
+2018-09-20 03:30:02\Resultado de la comprobación: \50439 en tabla.  - 50419 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-20 03:30:26\Importador de faltas: \50419 Registros leidos. - 50419 Registros insertados.
+2018-09-21 03:30:01\Resultado de la comprobación: \50419 en tabla.  - 50414 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-21 03:30:25\Importador de faltas: \50414 Registros leidos. - 50414 Registros insertados.
+2018-09-22 03:30:02\Resultado de la comprobación: \50414 en tabla.  - 50412 en archivo. - 2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-22 03:30:26\Importador de faltas: \50412 Registros leidos. - 50412 Registros insertados.
+2018-09-23 03:30:01\Resultado de la comprobación: \50412 en tabla.  - 50411 en archivo. - 1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-23 03:30:26\Importador de faltas: \50411 Registros leidos. - 50411 Registros insertados.
+2018-09-24 03:30:01\Resultado de la comprobación: \50411 en tabla.  - 50431 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-24 03:30:19\Importador de faltas: \50431 Registros leidos. - 50431 Registros insertados.
+2018-09-25 03:30:02\Resultado de la comprobación: \50431 en tabla.  - 50431 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-25 03:30:26\Importador de faltas: \50431 Registros leidos. - 50431 Registros insertados.
+2018-09-26 03:30:01\Resultado de la comprobación: \50431 en tabla.  - 50431 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-26 03:30:27\Importador de faltas: \50431 Registros leidos. - 50431 Registros insertados.
+2018-09-27 03:30:01\Resultado de la comprobación: \50431 en tabla.  - 50473 en archivo. - -42 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-27 03:30:26\Importador de faltas: \50473 Registros leidos. - 50473 Registros insertados.
+2018-09-28 03:30:01\Resultado de la comprobación: \50473 en tabla.  - 50506 en archivo. - -33 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-28 03:30:14\Importador de faltas: \50506 Registros leidos. - 50506 Registros insertados.
+2018-09-29 03:30:02\Resultado de la comprobación: \50506 en tabla.  - 50510 en archivo. - -4 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-29 03:30:27\Importador de faltas: \50510 Registros leidos. - 50510 Registros insertados.
+2018-09-30 03:30:01\Resultado de la comprobación: \50510 en tabla.  - 50535 en archivo. - -25 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-09-30 03:30:14\Importador de faltas: \50535 Registros leidos. - 50535 Registros insertados.
+2018-10-01 03:30:01\Resultado de la comprobación: \50535 en tabla.  - 50526 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-01 03:30:26\Importador de faltas: \50526 Registros leidos. - 50526 Registros insertados.
+2018-10-03 03:30:01\Resultado de la comprobación: \50526 en tabla.  - 50526 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-03 03:30:14\Importador de faltas: \50526 Registros leidos. - 50526 Registros insertados.
+2018-10-04 03:30:02\Resultado de la comprobación: \50526 en tabla.  - 50497 en archivo. - 29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-04 03:30:28\Importador de faltas: \50497 Registros leidos. - 50497 Registros insertados.
+2018-10-05 03:30:01\Resultado de la comprobación: \50497 en tabla.  - 50536 en archivo. - -39 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-05 03:30:25\Importador de faltas: \50536 Registros leidos. - 50536 Registros insertados.
+2018-10-06 03:30:02\Resultado de la comprobación: \50536 en tabla.  - 50556 en archivo. - -20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-06 03:30:27\Importador de faltas: \50556 Registros leidos. - 50556 Registros insertados.
+2018-10-07 03:30:01\Resultado de la comprobación: \50556 en tabla.  - 44292 en archivo. - 6264 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-07 03:30:23\Importador de faltas: \44292 Registros leidos. - 44292 Registros insertados.
+2018-10-09 03:30:02\Resultado de la comprobación: \44292 en tabla.  - 44292 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-09 03:30:13\Importador de faltas: \44292 Registros leidos. - 44292 Registros insertados.
+2018-10-10 03:30:02\Resultado de la comprobación: \44292 en tabla.  - 44292 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-10 03:30:24\Importador de faltas: \44292 Registros leidos. - 44292 Registros insertados.
+2018-10-11 03:30:01\Resultado de la comprobación: \44292 en tabla.  - 44257 en archivo. - 35 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-11 03:30:23\Importador de faltas: \44257 Registros leidos. - 44257 Registros insertados.
+2018-10-12 03:30:01\Resultado de la comprobación: \44257 en tabla.  - 44228 en archivo. - 29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-12 03:30:19\Importador de faltas: \44228 Registros leidos. - 44228 Registros insertados.
+2018-10-13 03:30:01\Resultado de la comprobación: \44228 en tabla.  - 44204 en archivo. - 24 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-13 03:30:12\Importador de faltas: \44204 Registros leidos. - 44204 Registros insertados.
+2018-10-14 03:30:02\Resultado de la comprobación: \44204 en tabla.  - 44191 en archivo. - 13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-14 03:30:21\Importador de faltas: \44191 Registros leidos. - 44191 Registros insertados.
+2018-10-15 03:30:01\Resultado de la comprobación: \44191 en tabla.  - 44171 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-15 03:30:23\Importador de faltas: \44171 Registros leidos. - 44171 Registros insertados.
+2018-10-16 03:30:01\Resultado de la comprobación: \44171 en tabla.  - 44171 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-16 03:30:23\Importador de faltas: \44171 Registros leidos. - 44171 Registros insertados.
+2018-10-17 03:30:01\Resultado de la comprobación: \44171 en tabla.  - 44171 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-17 03:30:20\Importador de faltas: \44171 Registros leidos. - 44171 Registros insertados.
+2018-10-18 03:30:02\Resultado de la comprobación: \44171 en tabla.  - 44171 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-18 03:30:22\Importador de faltas: \44171 Registros leidos. - 44171 Registros insertados.
+2018-10-19 03:30:02\Resultado de la comprobación: \44171 en tabla.  - 44153 en archivo. - 18 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-19 03:30:13\Importador de faltas: \44153 Registros leidos. - 44153 Registros insertados.
+2018-10-20 03:30:01\Resultado de la comprobación: \44153 en tabla.  - 44153 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-20 03:30:22\Importador de faltas: \44153 Registros leidos. - 44153 Registros insertados.
+2018-10-21 03:30:03\Resultado de la comprobación: \44153 en tabla.  - 44160 en archivo. - -7 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-21 03:30:22\Importador de faltas: \44160 Registros leidos. - 44160 Registros insertados.
+2018-10-22 03:30:02\Resultado de la comprobación: \44160 en tabla.  - 44134 en archivo. - 26 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-22 03:30:23\Importador de faltas: \44134 Registros leidos. - 44134 Registros insertados.
+2018-10-23 03:30:01\Resultado de la comprobación: \44134 en tabla.  - 44134 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-23 03:30:23\Importador de faltas: \44134 Registros leidos. - 44134 Registros insertados.
+2018-10-24 03:30:02\Resultado de la comprobación: \44134 en tabla.  - 44134 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-24 03:30:23\Importador de faltas: \44134 Registros leidos. - 44134 Registros insertados.
+2018-10-25 03:30:01\Resultado de la comprobación: \44134 en tabla.  - 44126 en archivo. - 8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-25 03:30:21\Importador de faltas: \44126 Registros leidos. - 44126 Registros insertados.
+2018-10-26 03:30:01\Resultado de la comprobación: \44126 en tabla.  - 44111 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-26 03:30:14\Importador de faltas: \44111 Registros leidos. - 44111 Registros insertados.
+2018-10-27 03:30:02\Resultado de la comprobación: \44111 en tabla.  - 44120 en archivo. - -9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-27 03:30:17\Importador de faltas: \44120 Registros leidos. - 44120 Registros insertados.
+2018-10-28 03:30:01\Resultado de la comprobación: \44120 en tabla.  - 44119 en archivo. - 1 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-28 03:30:23\Importador de faltas: \44119 Registros leidos. - 44119 Registros insertados.
+2018-10-29 03:30:01\Resultado de la comprobación: \44119 en tabla.  - 44114 en archivo. - 5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-29 03:30:22\Importador de faltas: \44114 Registros leidos. - 44114 Registros insertados.
+2018-10-30 03:30:01\Resultado de la comprobación: \44114 en tabla.  - 44114 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-30 03:30:22\Importador de faltas: \44114 Registros leidos. - 44114 Registros insertados.
+2018-10-31 03:30:01\Resultado de la comprobación: \44114 en tabla.  - 44114 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-10-31 03:30:23\Importador de faltas: \44114 Registros leidos. - 44114 Registros insertados.
+2018-11-01 03:30:02\Resultado de la comprobación: \44114 en tabla.  - 44141 en archivo. - -27 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-01 03:30:20\Importador de faltas: \44141 Registros leidos. - 44141 Registros insertados.
+2018-11-02 03:30:01\Resultado de la comprobación: \44141 en tabla.  - 44118 en archivo. - 23 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-02 03:30:23\Importador de faltas: \44118 Registros leidos. - 44118 Registros insertados.
+2018-11-03 03:30:01\Resultado de la comprobación: \44118 en tabla.  - 44103 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-03 03:30:12\Importador de faltas: \44103 Registros leidos. - 44103 Registros insertados.
+2018-11-04 03:30:01\Resultado de la comprobación: \44103 en tabla.  - 44116 en archivo. - -13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-04 03:30:24\Importador de faltas: \44116 Registros leidos. - 44116 Registros insertados.
+2018-11-05 03:30:01\Resultado de la comprobación: \44116 en tabla.  - 44107 en archivo. - 9 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-05 03:30:24\Importador de faltas: \44107 Registros leidos. - 44107 Registros insertados.
+2018-11-06 03:30:02\Resultado de la comprobación: \44107 en tabla.  - 44107 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-06 03:30:14\Importador de faltas: \44107 Registros leidos. - 44107 Registros insertados.
+2018-11-07 03:30:01\Resultado de la comprobación: \44107 en tabla.  - 44107 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-07 03:30:24\Importador de faltas: \44107 Registros leidos. - 44107 Registros insertados.
+2018-11-08 03:30:01\Resultado de la comprobación: \44107 en tabla.  - 44058 en archivo. - 49 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-08 03:30:22\Importador de faltas: \44058 Registros leidos. - 44058 Registros insertados.
+2018-11-09 03:30:01\Resultado de la comprobación: \44058 en tabla.  - 44058 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-09 03:30:19\Importador de faltas: \44058 Registros leidos. - 44058 Registros insertados.
+2018-11-10 03:30:01\Resultado de la comprobación: \44058 en tabla.  - 43916 en archivo. - 142 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-10 03:30:17\Importador de faltas: \43916 Registros leidos. - 43916 Registros insertados.
+2018-11-11 03:30:01\Resultado de la comprobación: \43916 en tabla.  - 43903 en archivo. - 13 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-11 03:30:21\Importador de faltas: \43903 Registros leidos. - 43903 Registros insertados.
+2018-11-12 03:30:01\Resultado de la comprobación: \43903 en tabla.  - 43924 en archivo. - -21 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-12 03:30:23\Importador de faltas: \43924 Registros leidos. - 43924 Registros insertados.
+2018-11-13 03:30:02\Resultado de la comprobación: \43924 en tabla.  - 43924 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-13 03:30:21\Importador de faltas: \43924 Registros leidos. - 43924 Registros insertados.
+2018-11-14 03:30:01\Resultado de la comprobación: \43924 en tabla.  - 43924 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-14 03:30:23\Importador de faltas: \43924 Registros leidos. - 43924 Registros insertados.
+2018-11-15 03:30:02\Resultado de la comprobación: \43924 en tabla.  - 43924 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-15 03:30:19\Importador de faltas: \43924 Registros leidos. - 43924 Registros insertados.
+2018-11-16 03:30:02\Resultado de la comprobación: \43924 en tabla.  - 43909 en archivo. - 15 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-16 03:30:24\Importador de faltas: \43909 Registros leidos. - 43909 Registros insertados.
+2018-11-17 03:30:02\Resultado de la comprobación: \43909 en tabla.  - 43877 en archivo. - 32 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-17 03:30:18\Importador de faltas: \43877 Registros leidos. - 43877 Registros insertados.
+2018-11-18 03:30:02\Resultado de la comprobación: \43877 en tabla.  - 43875 en archivo. - 2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-18 03:30:23\Importador de faltas: \43875 Registros leidos. - 43875 Registros insertados.
+2018-11-19 03:30:02\Resultado de la comprobación: \43875 en tabla.  - 43872 en archivo. - 3 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-19 03:30:25\Importador de faltas: \43872 Registros leidos. - 43872 Registros insertados.
+2018-11-20 03:30:01\Resultado de la comprobación: \43872 en tabla.  - 43872 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-20 03:30:23\Importador de faltas: \43872 Registros leidos. - 43872 Registros insertados.
+2018-11-21 03:30:02\Resultado de la comprobación: \43872 en tabla.  - 43872 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-21 03:30:23\Importador de faltas: \43872 Registros leidos. - 43872 Registros insertados.
+2018-11-22 03:30:02\Resultado de la comprobación: \43872 en tabla.  - 43872 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-22 03:30:23\Importador de faltas: \43872 Registros leidos. - 43872 Registros insertados.
+2018-11-23 03:30:02\Resultado de la comprobación: \43872 en tabla.  - 43866 en archivo. - 6 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-23 03:30:21\Importador de faltas: \43866 Registros leidos. - 43866 Registros insertados.
+2018-11-24 03:30:02\Resultado de la comprobación: \43866 en tabla.  - 43882 en archivo. - -16 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-24 03:30:23\Importador de faltas: \43882 Registros leidos. - 43882 Registros insertados.
+2018-11-25 03:30:01\Resultado de la comprobación: \43882 en tabla.  - 43903 en archivo. - -21 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-25 03:30:20\Importador de faltas: \43903 Registros leidos. - 43903 Registros insertados.
+2018-11-26 03:30:01\Resultado de la comprobación: \43903 en tabla.  - 43875 en archivo. - 28 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-26 03:30:14\Importador de faltas: \43875 Registros leidos. - 43875 Registros insertados.
+2018-11-27 03:30:01\Resultado de la comprobación: \43875 en tabla.  - 43875 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-27 03:30:12\Importador de faltas: \43875 Registros leidos. - 43875 Registros insertados.
+2018-11-28 03:30:02\Resultado de la comprobación: \43875 en tabla.  - 43875 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-28 03:30:24\Importador de faltas: \43875 Registros leidos. - 43875 Registros insertados.
+2018-11-29 03:30:01\Resultado de la comprobación: \43875 en tabla.  - 43883 en archivo. - -8 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-29 03:30:23\Importador de faltas: \43883 Registros leidos. - 43883 Registros insertados.
+2018-11-30 03:30:02\Resultado de la comprobación: \43883 en tabla.  - 43869 en archivo. - 14 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-11-30 03:30:12\Importador de faltas: \43869 Registros leidos. - 43869 Registros insertados.
+2018-12-01 03:30:02\Resultado de la comprobación: \43869 en tabla.  - 43874 en archivo. - -5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-01 03:30:25\Importador de faltas: \43874 Registros leidos. - 43874 Registros insertados.
+2018-12-02 03:30:01\Resultado de la comprobación: \43874 en tabla.  - 43901 en archivo. - -27 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-02 03:30:12\Importador de faltas: \43901 Registros leidos. - 43901 Registros insertados.
+2018-12-03 03:30:01\Resultado de la comprobación: \43901 en tabla.  - 43903 en archivo. - -2 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-03 03:30:21\Importador de faltas: \43903 Registros leidos. - 43903 Registros insertados.
+2018-12-04 03:30:02\Resultado de la comprobación: \43903 en tabla.  - 43903 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-04 03:30:24\Importador de faltas: \43903 Registros leidos. - 43903 Registros insertados.
+2018-12-05 03:30:01\Resultado de la comprobación: \43903 en tabla.  - 43903 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-05 03:30:11\Importador de faltas: \43903 Registros leidos. - 43903 Registros insertados.
+2018-12-06 03:30:02\Resultado de la comprobación: \43903 en tabla.  - 43932 en archivo. - -29 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-06 03:30:15\Importador de faltas: \43932 Registros leidos. - 43932 Registros insertados.
+2018-12-07 03:30:02\Resultado de la comprobación: \43932 en tabla.  - 43926 en archivo. - 6 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-07 03:30:23\Importador de faltas: \43926 Registros leidos. - 43926 Registros insertados.
+2018-12-08 03:30:03\Resultado de la comprobación: \43926 en tabla.  - 43915 en archivo. - 11 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-08 03:30:25\Importador de faltas: \43915 Registros leidos. - 43915 Registros insertados.
+2018-12-09 03:30:02\Resultado de la comprobación: \43915 en tabla.  - 43920 en archivo. - -5 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-09 03:30:19\Importador de faltas: \43920 Registros leidos. - 43920 Registros insertados.
+2018-12-10 03:30:01\Resultado de la comprobación: \43920 en tabla.  - 43900 en archivo. - 20 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-10 03:30:23\Importador de faltas: \43900 Registros leidos. - 43900 Registros insertados.
+2018-12-11 03:30:01\Resultado de la comprobación: \43900 en tabla.  - 43900 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-11 03:30:23\Importador de faltas: \43900 Registros leidos. - 43900 Registros insertados.
+2018-12-12 03:30:01\Resultado de la comprobación: \43900 en tabla.  - 43900 en archivo. - 0 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-12 03:30:22\Importador de faltas: \43900 Registros leidos. - 43900 Registros insertados.
+2018-12-13 03:30:02\Resultado de la comprobación: \43900 en tabla.  - 43890 en archivo. - 10 de diferencia. OK, hacer TRUNCATE E INSERT.-----------
+  2018-12-13 03:30:24\Importador de faltas: \43890 Registros leidos. - 43890 Registros insertados.

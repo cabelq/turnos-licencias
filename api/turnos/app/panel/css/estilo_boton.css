@@ -1,0 +1,104 @@
+body {
+	background: #FFFFFF url(../images/img01.gif) repeat-x;
+	font-family: verdana, arial;
+	font-size: 13px;
+	color: #666666;
+
+}
+
+BotUbi {
+	clear:both;
+	margin: 0 auto; 
+	padding: 0px 55px;
+	list-style: none;
+	position: relative;
+}
+
+button {
+	cursor: pointer; _cursor: hand;
+	width: 90px;
+	border-top: 2px solid #GGG;
+	border-right: 3px solid #GGG;
+	padding: 4px;
+	background: #CCC;
+	color: #444;
+	font: bold 11px Arial, sans-serif;
+	text-decoration: none;
+	height: 1%;
+}
+
+button:hover {
+	cursor: pointer; _cursor: hand;
+	background: gray;
+	color: #FFF;
+}
+
+input.boton {
+	cursor: pointer; _cursor: hand;
+	width: 90px;
+	border-top: 2px solid #GGG;
+	border-right: 3px solid #GGG;
+	padding: 4px;
+	background: #CCC;
+	color: #444;
+	font: bold 11px Arial, sans-serif;
+	text-decoration: none;
+	height: 100%;
+}
+
+input.boton:hover {
+	cursor: pointer; _cursor: hand;
+	background: gray;
+	color: #FFF;
+}
+
+label{
+padding:3px;
+display:block;
+width:40%;
+float:left;
+}
+
+select{
+height:2em;
+padding:3px;
+display:block;
+width:150px;
+float:right;
+}
+
+input{
+height:1em;
+padding:3px;
+display:block;
+width:140px;
+float:right;
+}
+
+input#validar{
+clear:both;
+height:2em;
+padding:3px;
+width:default;
+float:none;
+}
+
+input.radio {
+	float:left;
+	padding-left:3em;
+}
+
+h1, h2{
+clear:both;
+}
+
+form{
+margin:1em;
+padding:2em;
+border:2px solid #bedcfa;
+}
+
+textarea{
+	width:100%;
+	clear:both;
+}

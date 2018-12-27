@@ -1,0 +1,23 @@
+<div class="card text-white " [ngClass]="getClass()">
+    <div class="card-header">
+        <div class="row">
+            <div class="col col-xs-4">
+                <!--<i class="fa {{icon}} fa-5x"></i> bg-{{bgClass}}-->
+                <div class="d-block huge">{{data}}</div>
+            </div>
+            <div class="col col-xs-4">
+                <!--<i class="fa {{icon}} fa-5x"></i>-->
+                <div class="d-block huge">{{label}}</div>
+            </div>
+            <div class="col col-xs-2 text-right">
+                <div class="d-block huge">{{count}}</div>
+            </div>
+        </div>
+    </div>
+    <!--<div class="card-footer">
+        <span class="float-left">View Details {{data}}</span>
+        <a href="javascript:void(0)" class="float-right card-inverse">
+            <span ><i class="fa fa-arrow-circle-right"></i></span>
+        </a>
+    </div>-->
+</div>

@@ -1,0 +1,95 @@
+body {
+	background-color: #B2C78A;
+	width: 450px;
+	height:350px;
+	/*padding-top:5px;*/
+}
+
+.Main {
+	position: absolute;
+	width: 100%;
+	left: 10;
+	top: 10;
+	width: 230px;
+	height: 230px;
+	vertical-align:middle;
+}
+
+body  {
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  color: #40535E;
+}
+
+#demoIzq, #demoDer, #demoMed { border:1px; width:210px; text-align:center; }
+
+#demoDer, #demoMed { float:right; }
+
+select {
+	background-color:#E6E6E6;
+	width:200px;
+	height:30px;
+	font-size:15px;
+	padding:3px;
+	text-align:left;
+}
+input { 
+	background-color:#E6E6E6;
+	width:200px;
+	height:25px;
+	font-size:23px;
+	padding:5px;
+	text-align:center;
+	letter-spacing: 3px;
+	vertical-align:middle;
+	margin-left:0px;
+	margin-top:5px;
+	padding-bottom:3px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:3px;
+}
+
+button  {
+	color: black;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+	height:25px;
+    cursor:pointer;
+	
+    border-radius: 50px;
+ 
+    /* propiedades para la animacion  */
+ 
+    transition: all 0.20s linear;
+    -webkit-transition: all 0.20s linear;
+    -moz-transition: all 0.20s linear;
+    position: relative;
+	top:;
+	top:;
+    bottom: 0;
+}
+
+#datos  {
+	font-size:20px;
+	/*border:1px solid;*/
+	width:450px;
+	margin-top:10px;
+	margin-left:0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	/*background-color:#EAEAEA;
+	text-align:center;
+	margin:0 1px 0 1px;*/
+}
+#selects {
+	left: 10;
+	top: 10;
+	vertical-align:middle;
+	height:32px;
+	width:450px;
+}

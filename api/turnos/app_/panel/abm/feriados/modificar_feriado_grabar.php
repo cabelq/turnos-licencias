@@ -1,0 +1,32 @@
+<?php
+	include "../../../../lib/funciones.php";
+	session_start();
+	$dbh = crear_pdo();
+	
+	$query = "UPDATE feriados SET fecha=?, descripcion=? WHERE id_feriado=?";
+	$sth = $dbh->prepare( $query );
+	
+	if ( $sth ) {
+		if( trim($_POST['fecha']) != "" && trim($_POST['desc']) != "" ) {
+			$f = explode("-", $_POST['fecha']);
+			$d1 = $f[0];
+			$m1 = $f[1];
+			$y1 = $f[2];
+			$fecha = $y1."-".$m1."-".$d1;
+			$sth->execute( array($fecha, $_POST['desc'], $_POST['id']) );
+			echo '<script>alert("El Feriado ha sido modificado!");</script>';
+		} else {
+			echo '<script>alert("Ha ocurrido un error al intentar recibir los datos...");</script>';
+		}
+	} else {
+		echo '<script>alert("Ha ocurrido un error al intentar grabar el feriado...");</script>';
+	}
+	echo '<Script>
+			window.opener.location.href = window.opener.location.href;
+			if (window.opener.progressWindow) {
+				window.opener.progressWindow.close()
+			}
+			window.close();
+		  </script>';
+	$dbh = null;
+?>

@@ -1,0 +1,44 @@
+BotUbi {
+	margin: 0 auto; 
+	padding: 0px 55px;
+	list-style: none;
+	position: relative;
+}
+
+button {
+	cursor: pointer; _cursor: hand;
+	width: 90px;
+	border-top: 2px solid #GGG;
+	border-right: 3px solid #GGG;
+	padding: 4px;
+	background: #CCC;
+	color: #444;
+	font: bold 11px Arial, sans-serif;
+	text-decoration: none;
+	height: 1%;
+}
+
+button:hover {
+	cursor: pointer; _cursor: hand;
+	background: gray;
+	color: #FFF;
+}
+
+input.boton {
+	cursor: pointer; _cursor: hand;
+	width: 90px;
+	border-top: 2px solid #GGG;
+	border-right: 3px solid #GGG;
+	padding: 4px;
+	background: #CCC;
+	color: #444;
+	font: bold 11px Arial, sans-serif;
+	text-decoration: none;
+	height: 100%;
+}
+
+input.boton:hover {
+	cursor: pointer; _cursor: hand;
+	background: gray;
+	color: #FFF;
+}

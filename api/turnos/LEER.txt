@@ -1,0 +1,6 @@
+MODIFICACIONES REALIZADAS:
+	1- Se agrego en menu la posibilidad de reimprimir el turno.
+	2- El sistema calcula los dias posibles a partir de la fecha real del
+	   vencimiento de la licencia.
+	3- Se agrego mensaje= IMPORTANTE: Recuerde que ud. podrá reservar el turno con una antelacion máxima de 30
+						  días anteriores a la fecha del vencimiento de su actual licencia.	

@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/bootstrap";
+@import "spinner";
+@import "utils";
+@import "rtl";
+@import "responsive";
+
+@import 'node_modules/angular2-toaster/src/toaster';
+
+@media print {
+    .breadcrumb {
+        display: none !important;
+    }
+}

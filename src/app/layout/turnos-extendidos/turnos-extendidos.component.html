@@ -1,0 +1,32 @@
+<div [@routerTransition]>
+  <!--<h2 class="text-muted">Turnos <small>Extendidos</small></h2>-->
+  <app-page-header [heading]="'Turnos'" [icon]="'fa-table'"></app-page-header>
+  <div *ngIf="showTurnos" class="row">
+     <div class="col-xl-3 col-lg-6 pb-2" *ngFor="let turno of turnos">
+    
+      <!--<div class="card text-white bg-success">
+          <div class="card-header">
+              <div class="row">
+                  <div class="col col-xs-3">
+                      <i class="fa fa-comments fa-5x"></i>
+                  </div>
+                  <div class="col col-xs-9 text-right">
+                      <div class="d-block huge">{{turno.cantidadTurnos}}</div>
+                      <div class="d-block">{{turno.fecha}}</div>
+                  </div>
+              </div>
+          </div>
+          <div class="card-footer">
+              <span class="float-left">View Details {{turno.cantidadTurnos}}</span>
+              <a href="javascript:void(0)" class="float-right card-inverse">
+                  <span ><i class="fa fa-arrow-circle-right"></i></span>
+              </a>
+          </div>
+      </div>-->
+      
+     <app-stat [bgClass]="'primary'" [icon]="'fa-comments'" [count]="turno.cantidadTurnos" [label]="turno.fecha" [data]= "turno.diaSemana"></app-stat>
+   
+    </div>
+  </div>
+
+</div>

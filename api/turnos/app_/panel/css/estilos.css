@@ -1,0 +1,202 @@
+html,body
+{
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+body {	
+	font-family: verdana, arial;
+	background-color: #DDD;	
+	background-color: #B2C78A;
+	background-image: url('../images/Page-BgTexture.jpg');	
+}
+
+#header {	
+	width:100%;	
+	/*height:100px;*/
+	font-family: verdana, arial;
+	/*	color: blue;
+	font-size: 150%;
+	font-style: italic;
+	background-color: #DDD;
+	margin-top:0.2em;
+	text-shadow: 0.08em 0.08em 0.2em DarkBlue;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+	*/
+	background-image: url('../images/Header.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;		
+}
+
+#header {
+	/*width: 992px;*/
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	background-image: url('../images/header_trans.png');
+	background-repeat: round;
+	background-position: center center;	
+}
+
+#header h1 {	
+	text-align:right;	
+	padding-top:8px;	
+	padding-right:20px;
+}
+
+#nav {
+	background-color:#ddd;
+	/*float:left;	width:15%;*/
+	height:30px;
+}
+
+#cuerpo {
+	background-color:#eee;
+	float:right;
+	width:100%;
+	height:100%;
+	overflow:scroll;
+}
+
+#cuerpo2 {
+	background-color:#eee;
+	float:right;
+	width:100%;
+	height:100%;
+	overflow:scroll;
+}
+
+#recuadro {
+	font-size:10pt;
+}
+
+#footer {
+	clear:both;
+	width:100%;
+	height:30px;
+	background: url("../images/panel_sub.jpg");
+}
+
+#nav ul {
+	margin:0px;
+	padding:0px;
+	display:block;
+	cursor: pointer;
+ 	_cursor: hand;
+}
+
+#nav ul li {
+	margin-top:3px;
+	/*width:100%;*/
+	width:14.25%;
+	float:left;
+	height:25px;
+	padding-top:5px;
+	/*background: url("../images/oscuro.png");*/
+	float:left;
+	display:block;
+	text-align:center;
+	font-family: verdana, arial;
+	font-weight:bold;
+	color:gray;
+}
+
+#nav ul li:hover {
+	background-color: #BDBDBD;
+	/*background: url("../images/claro.png");*/
+	color:#fff;
+}
+
+a img {
+	border:none;
+	text-decoration:none;
+}
+
+a {
+	text-decoration:none;
+}
+
+.Footer {
+position: relative;
+z-index: 0;
+overflow: hidden;
+width: 992px;
+margin: 1px auto 0px auto;
+}
+.Footer .Footer-inner {
+/*height: 1%;*/
+position: relative;
+z-index: 0;
+/*padding: 8px;*/
+text-align: center;
+}
+.Footer .Footer-background {
+position: absolute;
+z-index: -1;
+background-repeat: no-repeat;
+background-image: url('../images/Footer.png');
+width: 992px;
+/*height: 100px;*/
+bottom: 0;
+left: 0;
+}
+.Footer .Footer-text {
+display: inline-block;
+color: #132939;
+font-family: Arial, Helvetica, Sans-Serif;
+font-size: 11px;
+}
+/* begin Logo */
+.logo
+{
+  display : block;
+  position: absolute;
+  left: 699px;
+  top: 5px;
+/*  width: 304px;*/
+}
+
+h1.logo-name
+{
+  display: block;
+  text-align: center;
+}
+
+h1.logo-name, h1.logo-name a, h1.logo-name a:link, h1.logo-name a:visited, h1.logo-name a:hover
+{
+  font-family:"Felix Titling",Arial, Helvetica, Sans-Serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+  padding:0;
+  margin:0;
+  color: #FBFDFE !important;
+}
+
+.logo-text
+{
+  display: block;
+  text-align: center;
+}
+
+.logo-text, .logo-text a
+{
+  font-family:"Century Schoolbook",Arial, Helvetica, Sans-Serif;
+  font-size: 19px;
+  padding:0;
+  margin:0;
+  color: #19262E !important;
+}
+div.Header-jpeg {
+position: absolute;
+z-index: -1;
+top: 0;
+left: 0;
+width: 992px;
+height: 150px;
+background-image: url('../images/Header.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+}

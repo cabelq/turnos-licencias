@@ -1,0 +1,141 @@
+<div [@routerTransition]>
+  <!--<app-page-header [heading]="'Feriados'" [icon]="'fa-table'"></app-page-header>-->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Feriados</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li>
+      </ul>
+      <form class="form-inline">
+        <div class="form-group mb-2 p-2">
+          <label for="staticDni" class="p-2">DNI </label>
+          <input
+            type="text"
+            [(ngModel)]="dni"
+            [ngModelOptions]="{ standalone: true }"
+            class="form-control"
+            id="staticDni"
+            value=""
+          />
+        </div>
+        <div class="form-group mx-sm-3 mb-2">
+          <label for="inputPassword2" class="p-2">Fecha</label>
+          <div class="input-group datepicker-input">
+            <input
+              class="form-control"
+              placeholder="dd/mm/yyyy"
+              dateFormat="dd/MM/yyyy"
+              name="dp"
+              [(ngModel)]="fecha"
+              [ngModelOptions]="{ standalone: true }"
+              ngbDatepicker
+              #d="ngbDatepicker"
+            />
+            <button class="input-group-addon" (click)="d.toggle()" type="button">
+              <!-- <img src="img/calendar-icon.svg" style="width: 1.2rem; height: 1rem; cursor: pointer;"/> -->
+              <span class="fa fa-calendar"></span>
+            </button>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary mb-2" (click)="filtrar()">Filtrar</button>
+      </form>
+    </div>
+  </nav>
+  <div class="row">
+    <div class="col col-xl-12 col-lg-12">
+      <div class="card mb-3">
+        <!--<div class="card-header">Basic example</div>-->
+
+        <div class="card-body table-responsive">
+          <div class="row">
+            <div class="col-lg-12">
+              <!--<form class="form-inline">
+                <div class="form-group mb-2 p-2">
+                  <label for="staticDni" class="p-2">DNI </label>
+                  <input
+                    type="text"
+                    [(ngModel)]="dni"
+                    [ngModelOptions]="{ standalone: true }"
+                    class="form-control"
+                    id="staticDni"
+                    value=""
+                  />
+                </div>
+                <div class="form-group mx-sm-3 mb-2">
+                  <label for="inputPassword2" class="p-2">Fecha</label>
+                  <div class="input-group datepicker-input">
+                    <input
+                      class="form-control"
+                      placeholder="dd/mm/yyyy"
+                      dateFormat="dd/MM/yyyy"
+                      name="dp"
+                      [(ngModel)]="fecha"
+                      [ngModelOptions]="{ standalone: true }"
+                      ngbDatepicker
+                      #d="ngbDatepicker"
+                    />
+                    <button class="input-group-addon" (click)="d.toggle()" type="button">
+                      <span class="fa fa-calendar"></span>
+                    </button>
+                  </div>
+                </div>
+                <button type="submit" class="btn btn-primary mb-2" (click)="filtrar()">Filtrar</button>
+              </form>-->
+            </div>
+          </div>
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Fecha</th>
+                <th>Días</th>
+                <th>Estado</th>
+                <th>Feriado</th>
+                <th></th>
+                <th></th>                 
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let feriado of feriados; let i = index">
+                <th scope="row">{{ feriado.id_feriado }}</th>
+                <td>{{ feriado.fecha }}</td>
+                <td>{{ getDiaSemana(feriado.fecha) }}</td>
+                <td>{{ feriado.fecha }}</td>
+                <td>{{ feriado.descripcion }}</td>
+                <td>
+                  <button type="button" class="btn btn-outline-primary btn-sm"><span class="fa fa-print fa-lg" aria-hidden="true"></span></button>
+                </td>
+                <td>
+                  <button type="button" class="btn btn-outline-danger btn-sm"><span class="fa fa-trash-o fa-lg" aria-hidden="true"></span></button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

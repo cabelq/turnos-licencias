@@ -1,0 +1,104 @@
+#contenedor {
+	width:700px;
+	height:30px;
+}
+
+#menu_barra_herramientas {
+	width: auto;
+	height: 21px;
+	background:#EEE;
+	border: 1px solid #CCC;
+	padding: 2px 2px 2px 1px;
+	float:left;
+	margin-left:2px;
+	
+	box-shadow: 1px 1px 1px rgba(5,5,5,5);
+	-moz-box-shadow: 1px 1px 1px rgba(70,70,70,0.5);
+	-webkit-box-shadow: 1px 1px 1px rgba(5,5,5,5);
+
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#menu_barra_herramientas1 {
+	width: auto;
+	height: 17px;
+	background:#EEE;
+	border: 1px solid #CCC;
+	padding: 2px 16px 2px 16px;
+	float:left;
+	margin-left:10px;
+	margin-top:3px;
+}
+
+#menu_barra_herramientas2 {
+	width: auto;
+	height: 40px;
+	background:#EEE;
+	border: 1px solid #CCC;
+	padding: 2px 2px 2px 1px;
+	/*float:left;*/
+	margin-left:2px;
+	
+	box-shadow: 1px 1px 1px rgba(5,5,5,5);
+	-moz-box-shadow: 1px 1px 1px rgba(70,70,70,0.5);
+	-webkit-box-shadow: 1px 1px 1px rgba(5,5,5,5);
+
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#borde_izquierdo {
+	padding: 0px 0px 0px 1px;
+	cursor:move;
+	float:left;
+	height:22px;
+	border-right-style: dotted;
+}
+
+#individual {
+	width:20px;
+	height:20px;
+	float:left;
+	margin-left:2px;
+	box-shadow: 1px 1px 1px rgba(5,5,5,5);
+	-moz-box-shadow: 1px 1px 1px rgba(70,70,70,0.5);
+	-webkit-box-shadow: 1px 1px 1px rgba(5,5,5,5);
+
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+
+#individual2 {
+	width:40px;
+	height:40px;
+	float:left;
+	margin-left:43px;
+	box-shadow: 1px 1px 1px rgba(5,5,5,5);
+	-moz-box-shadow: 1px 1px 1px rgba(70,70,70,0.5);
+	-webkit-box-shadow: 1px 1px 1px rgba(5,5,5,5);
+
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+
+input:hover {
+	background:#CEECF5;
+	width:20px;
+	height:20px;
+	border: 1px solid blue;
+	
+	box-shadow: 1px 1px 1px rgba(5,5,5,5);
+	-moz-box-shadow: 1px 1px 1px rgba(70,70,70,0.5);
+	-webkit-box-shadow: 1px 1px 1px rgba(5,5,5,5);
+	
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;	
+}
+
+

@@ -1,0 +1,266 @@
+* {	
+	margin: 0;	padding: 0;
+}
+
+body {
+	background: #FFFFFF ;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 13px;
+	color: #666666;
+}
+
+h1, h2, h3 {
+	color: #333333;
+}
+
+h1, h2 {
+	margin-bottom: 30px;
+	font-weight: normal;
+}
+h1 {	
+	font-size: 197%;
+}
+
+h2 {	
+	font-size: 152%;
+}
+
+h3 {	
+	font-size: 100%;
+}
+
+p, ul, ol {
+	margin-bottom: 20px;
+	line-height: 1.8em;
+}
+
+#cons input {
+	background-color: #E6E6E6;
+	width: 200px;
+	height: 20px;
+	font-size: 15px;
+	padding: 2px;
+	/*text-align: center;*/
+	letter-spacing: 3px;
+	vertical-align: middle;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid;
+	text-transform: uppercase;
+}
+
+#combo select {
+	background-color: #E6E6E6;
+	width: 200px;
+	height: 25px;
+	font-size: 15px;
+	padding: 2px;
+	text-align: center;
+	letter-spacing: 3px;
+	vertical-align: middle;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-transform:uppercase;
+}
+
+#combo2 select {
+	background-color: #E6E6E6;
+	height: 26px;
+	font-size: 15px;
+	padding: 2px;
+	text-align: center;
+	letter-spacing: 3px;
+	vertical-align: middle;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-transform:uppercase;
+	border: 1px solid;
+}
+
+#combo3 select {
+	background-color: #E6E6E6;
+	width: 80px;
+	height: 25px;
+	font-size: 15px;
+	padding: 2px;
+	text-align: center;
+	letter-spacing: 3px;
+	vertical-align: middle;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-transform:uppercase;
+}
+
+#contenedor {
+	width: 430px;
+	height: 270px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #325E48;
+	border: 3px solid black;
+	color: white;
+}
+
+#contenedor2 {
+	width: 500px;
+	height: 290px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border: 2px solid black;
+	border-radius: 15px;
+	box-shadow: 3px -5px 1px #000;
+}
+
+input[type=radio].css-checkbox{
+ display: none;
+}
+input[type=radio].css-checkbox + label.css-label{
+ padding-left: 27px;
+ height: 18px;
+ display: inline-block;
+ line-height: 18px;
+ background-repeat: no-repeat;
+ background-position: 0 0;
+ vertical-align: middle;
+ cursor: pointer;
+}
+input[type=radio].css-checkbox:checked + label.css-label{
+ background-position: 0 -18px;
+ background:#4fa338;
+ border:1px solid gray;
+ border-radius: 5px;
+ color:white;
+}
+label.css-label{
+ background-image: url(../img/cssradiobutton.png);
+ -webkit-touch-callout: none;
+ -webkit-user-select: none;
+ -khtml-user-select:none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+}
+
+ul, ol {	margin-left: 3em;}
+blockquote {	padding-left: 3em;	background: url(../images/img08.gif) no-repeat;	font-style: italic;}
+a:link {	color: #1953A7;}
+a:active {	color: #ED5C0C;
+}
+a:visited {	color: #666666;}
+a:hover {	text-decoration: none;	color: #067600;}
+img {	border: none;}
+img.left {	float: left;	margin: 0 20px 10px 0;}
+/* Menu */#menu {	width: 770px;	height: 65px;	margin: 0 auto;	border-right: 1px solid #EDEBD5;}
+#menu ul {	margin: 0;	padding: 0;	list-style: none;}
+#menu li {	display: inline;}
+#menu a {	display: block;	float: left;	width: 109px;	height: 45px;	padding: 20px 0 0 0;	border-left: 1px solid #EDEBD5;	text-decoration: none;	text-align: center;	font-size: 144%;	color: #BABABA;}
+#menu a:hover {	background: #F7F7F4;}
+#menu .active a {	background: #82BC2B;	color: #FFFFFF;}
+/* Header */#header {	width: 770px;	height: 170px;	margin: 0 auto;	top: auto;}
+#header h1 {	float: left;	width: 220px;	height: 100px;	margin: 0;	padding: 70px 0 0 0;	background: url(../images/img02.jpg) no-repeat;	text-align: center;	font-size: 36px;}
+#header h2 {	float: right;	width: 530px;	height: 86px;	margin: 0;	background: url(../images/img03.jpg) no-repeat;	padding: 84px 20px 0 0;	text-align: right;}
+#header a {	text-decoration: none;	font-style: italic;	font-weight: normal;	color: #FFFFFF;}
+/* Page */#page {	width: 770px;	margin: 0 auto;	padding: 20px 0;}
+/* Content */#content {	float: left;	width: 550px;	padding-top: 10px;}
+.post {	margin-bottom: 20px;	padding: 0 20px;}
+.hr {	border-bottom: 1px solid #EDEBD5;}
+/* Sidebar */#sidebar {	float: right;	width: 210px;	padding: 5px;	background: #EDEBD5;}
+#sidebar h2 {	margin: 0;	padding: 5px 15px;	color: #FFFFFF;}
+#sidebar h3 {	font-size: 85%;	color: #FFFFFF;}
+#sidebar ul {	margin: 0;	padding: 15px;	list-style: none;}
+#sidebar li {}
+#sidebar a {	color: #FFFFFF;}
+.bluebox {	background-image: url(../images/img03.jpg);	background-repeat: repeat-y;}
+.bluebox h2 {	background-image: url(../images/img03.jpg);	background-repeat: repeat-y;}
+/* Footer */#footer {	clear: both;	padding: 25px 0;	background: #008734; color:#fff;}
+#footer p {	margin: 0;	text-align: center;	font-size: 77%;}
+#footer a {	color: #fff;}
+
+/* Boton */
+BotUbi {	
+	clear:both;	
+	margin: 0 auto; 	
+	padding: 0px 55px;	
+	list-style: none;	
+	position: relative;
+}
+
+button {	
+	cursor: pointer; _cursor: hand;
+	width: 110px;
+	margin-top: 4px;
+	border-top: 2px solid #GGG;
+	border-right: 3px solid #GGG;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	background: #D8D8D8;
+	/*color: gray;*/
+	font: bold 11px Arial, sans-serif;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+#button2 {	
+	cursor: pointer; _cursor: hand;
+	margin-top: 2px;
+	border-top: 2px solid #GGG;
+	border-right: 3px solid #GGG;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background: #D8D8D8;
+	/*color: gray;*/
+	/*font-family: Arial, Helvetica, Sans-Serif;*/
+	text-decoration: none;
+	border-radius: 10px;
+	box-shadow: 3px -2px 1px #000;
+	color:white;
+}
+
+button:hover { 
+	cursor: pointer;
+	_cursor: hand;
+	background: gray;
+	color: #FFF;
+}
+
+#TitGrande {
+	font-family: Times New Roman;
+	color: blue;
+	font-size: 350%;
+	font-style: italic;
+	background-color: #DDD;
+	margin-top:0.2em;
+	padding: 0.2em 0.6em;
+	text-shadow: 0.08em 0.08em 0.2em DarkBlue;
+	border-bottom: 1px solid gray;
+}
+
+#TitGrande2 {
+	font-family: Palatino Linotype;
+	color: white;
+	font-size: 250%;
+	font-style: italic;
+	background-color: gray;
+	margin-top:0.2em;
+	padding: 0.2em 0.6em;
+	border-bottom: 1px solid gray;
+}
+
+#TitChico {
+	font-family: Palatino Linotype;
+	color: white;
+	font-size: 25px;
+	font-style: italic;
+	background-color: #325E48;
+	margin-top:0.2em;
+	padding: 0.2em 0.6em;
+	/*border-bottom: 1px solid gray;*/
+}

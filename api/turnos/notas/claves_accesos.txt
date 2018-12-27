@@ -1,0 +1,36 @@
+USUARIOS SISTEMA TURNOS LICENCIAS:
+	Usu: admin
+	Pas: sistemas_v
+	
+	Usu: usuario_2
+	Pas: licencias_6789
+	
+	Usu: bogetti
+	Pas: 38404312
+	
+	Usu: erbiti
+	Pas: 28179055
+	
+	Usu: zucchi
+	Pas: 27573808
+	
+	Usu: galvan
+	Pas: sandritagalvan
+	
+	Usu: cubero
+	Pas: 34401986
+	
+	Usu: guglielmo (Baja 08/10/14)
+	Pas: 16072012
+	
+	Usu: lucero
+	Pas: 12677269
+	
+	Usu: croce
+	Pas: 16086316
+	
+	Usu: ramallo
+	Pas: 23291620
+	
+	Usu: pinero
+	Pas: 13146614
